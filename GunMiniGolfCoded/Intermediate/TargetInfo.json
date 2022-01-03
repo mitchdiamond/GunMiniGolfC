@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GunMiniGolfCoded",
+			"Path": "E:\\Personal Projects\\HumanMiniGolfC++\\GunMiniGolfC\\GunMiniGolfCoded\\Source\\GunMiniGolfCoded.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GunMiniGolfCodedEditor",
+			"Path": "E:\\Personal Projects\\HumanMiniGolfC++\\GunMiniGolfC\\GunMiniGolfCoded\\Source\\GunMiniGolfCodedEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

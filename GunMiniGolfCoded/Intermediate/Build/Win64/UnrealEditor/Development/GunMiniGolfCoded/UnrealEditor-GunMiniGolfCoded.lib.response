@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GunMiniGolfCoded.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\GunMiniGolfCodedEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UnrealEditor\Development\GunMiniGolfCoded\GunMiniGolfCoded.cpp.obj"
+"E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UnrealEditor\Development\GunMiniGolfCoded\GunMiniGolfCodedGameModeBase.cpp.obj"
+"E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UnrealEditor\Development\GunMiniGolfCoded\GunMiniGolfCoded.init.gen.cpp.obj"
+"E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UnrealEditor\Development\GunMiniGolfCoded\GunMiniGolfCodedGameModeBase.gen.cpp.obj"
+"E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UnrealEditor\Development\GunMiniGolfCoded\Default.rc2.res"
+/OUT:"E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UnrealEditor\Development\GunMiniGolfCoded\UnrealEditor-GunMiniGolfCoded.lib"
+/INCLUDE:IMPLEMENT_MODULE_GunMiniGolfCoded
