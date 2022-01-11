@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeGunMiniGolfCoded_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x152D0237,
+				0xA2942EE5,
 				0x20506A56,
 				METADATA_PARAMS(nullptr, 0)
 			};

@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define GUNMINIGOLFCODED_BaseCharacter_generated_h
 
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_SPARSE_DATA
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_RPC_WRAPPERS
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_RPC_WRAPPERS_NO_PURE_DECLS
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_INCLASS_NO_PURE_DECLS \
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_SPARSE_DATA
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_RPC_WRAPPERS
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_RPC_WRAPPERS_NO_PURE_DECLS
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABaseCharacter(); \
 	friend struct Z_Construct_UClass_ABaseCharacter_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(ABaseCharacter)
 
 
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_INCLASS \
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_INCLASS \
 private: \
 	static void StaticRegisterNativesABaseCharacter(); \
 	friend struct Z_Construct_UClass_ABaseCharacter_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(ABaseCharacter)
 
 
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_STANDARD_CONSTRUCTORS \
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ABaseCharacter(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABaseCharacter) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_ENHANCED_CONSTRUCTORS \
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ABaseCharacter(ABaseCharacter&&); \
@@ -58,28 +58,33 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ABaseCharacter)
 
 
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_PRIVATE_PROPERTY_OFFSET
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_13_PROLOG
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_GENERATED_BODY_LEGACY \
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__Mesh1P() { return STRUCT_OFFSET(ABaseCharacter, Mesh1P); } \
+	FORCEINLINE static uint32 __PPO__FP_Gun() { return STRUCT_OFFSET(ABaseCharacter, FP_Gun); } \
+	FORCEINLINE static uint32 __PPO__FP_MuzzleLocation() { return STRUCT_OFFSET(ABaseCharacter, FP_MuzzleLocation); }
+
+
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_19_PROLOG
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_PRIVATE_PROPERTY_OFFSET \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_SPARSE_DATA \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_RPC_WRAPPERS \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_INCLASS \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_STANDARD_CONSTRUCTORS \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_PRIVATE_PROPERTY_OFFSET \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_SPARSE_DATA \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_RPC_WRAPPERS \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_INCLASS \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_GENERATED_BODY \
+#define GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_PRIVATE_PROPERTY_OFFSET \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_SPARSE_DATA \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_INCLASS_NO_PURE_DECLS \
-	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_16_ENHANCED_CONSTRUCTORS \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_PRIVATE_PROPERTY_OFFSET \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_SPARSE_DATA \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_INCLASS_NO_PURE_DECLS \
+	GunMiniGolfCoded_Source_GunMiniGolfCoded_BaseCharacter_h_22_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

@@ -295,6 +295,5 @@ bool AGunMiniGolfCodedCharacter::EnableTouchscreenMovement(class UInputComponent
 		//PlayerInputComponent->BindTouch(EInputEvent::IE_Repeat, this, &AGunMiniGolfCodedCharacter::TouchUpdate);
 		return true;
 	}
-	
 	return false;
 }
