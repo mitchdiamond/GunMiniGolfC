@@ -1,0 +1,1578 @@
+﻿Log file open, 01/10/22 19:10:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GunMiniGolfCoded
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.302212
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: FOculusHMDModule PreInit successfully
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=slvr13 -epicuserid=02daed237b3343449dd99d8b9cbcd57f -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Engine.ini]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Engine.ini]
+[2022.01.11-02.10.42:503][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Engine.ini]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.11-02.10.42:503][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Engine.ini]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.11-02.10.42:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Engine.ini]
+[2022.01.11-02.10.42:504][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Engine.ini]
+[2022.01.11-02.10.42:519][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.11-02.10.42:519][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.11-02.10.42:520][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.11-02.10.42:520][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.11-02.10.42:520][  0]LogHAL: Display: Platform has ~ 32 GB [34191577088 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.11-02.10.42:520][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.11-02.10.42:520][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.11-02.10.42:520][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Scalability.ini]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.11-02.10.42:521][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.11-02.10.42:521][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.11-02.10.42:522][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.11-02.10.42:522][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.11-02.10.42:522][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Engine.ini]
+[2022.01.11-02.10.42:522][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Config/Windows/Editor.ini]
+[2022.01.11-02.10.42:522][  0]LogInit: Computer: MITCH-WORKSTATI
+[2022.01.11-02.10.42:522][  0]LogInit: User: Mitch
+[2022.01.11-02.10.42:522][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.01.11-02.10.42:522][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.11-02.10.42:522][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.01.11-02.10.42:522][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.11-02.10.42:522][  0]LogMemory: Process Physical Memory: 153.15 MB used, 153.76 MB peak
+[2022.01.11-02.10.42:522][  0]LogMemory: Process Virtual Memory: 115.62 MB used, 115.62 MB peak
+[2022.01.11-02.10.42:522][  0]LogMemory: Physical Memory: 14670.18 MB used,  17937.45 MB free, 32607.63 MB total
+[2022.01.11-02.10.42:522][  0]LogMemory: Virtual Memory: 134200120.00 MB used,  17607.55 MB free, 134217728.00 MB total
+[2022.01.11-02.10.42:527][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.11-02.10.42:576][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.11-02.10.42:577][  0]LogInit: Using OS detected language (en-US).
+[2022.01.11-02.10.42:577][  0]LogInit: Using OS detected locale (en-US).
+[2022.01.11-02.10.42:580][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.01.11-02.10.42:771][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.11-02.10.42:796][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-02.10.42:814][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.11-02.10.42:814][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.11-02.10.42:997][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.11-02.10.42:998][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.11-02.10.42:998][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.11-02.10.42:998][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.11-02.10.43:140][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.01.11-02.10.43:141][  0]LogD3D11RHI:       5980/0/16303 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.01.11-02.10.43:755][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.01.11-02.10.43:755][  0]LogD3D11RHI:       128/0/16303 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:       0/0/16303 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:     SubSysId    : 868e1043
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:     SharedSystemMemory : 17095788544 bytes
+[2022.01.11-02.10.43:759][  0]LogD3D11RHI:     AdapterLuid : 0 87253
+[2022.01.11-02.10.43:768][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.11-02.10.43:768][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.11-02.10.43:768][  0]LogWindows: EnumDisplayDevices:
+[2022.01.11-02.10.43:768][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2022.01.11-02.10.43:768][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.01.11-02.10.43:769][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.01.11-02.10.43:769][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.01.11-02.10.43:769][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.01.11-02.10.43:770][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.01.11-02.10.43:770][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.01.11-02.10.43:770][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:   Driver Version: 497.29 (internal:30.0.14.9729, unified:497.29)
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:      Driver Date: 12-15-2021
+[2022.01.11-02.10.43:770][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     SubSysId    : 868e1043
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     SharedSystemMemory : 17095788544 bytes
+[2022.01.11-02.10.43:770][  0]LogD3D11RHI:     AdapterLuid : 0 87253
+[2022.01.11-02.10.43:840][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.11-02.10.43:840][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.11-02.10.43:840][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.11-02.10.43:871][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.11-02.10.43:904][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.11-02.10.44:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.11-02.10.44:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.11-02.10.44:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.11-02.10.44:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.11-02.10.44:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.11-02.10.44:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.11-02.10.44:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.11-02.10.44:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.11-02.10.44:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.11-02.10.44:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.11-02.10.44:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.11-02.10.44:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.11-02.10.44:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.11-02.10.44:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.11-02.10.44:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.11-02.10.44:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.11-02.10.44:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.11-02.10.44:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.11-02.10.44:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.11-02.10.44:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.11-02.10.44:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.11-02.10.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.11-02.10.44:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.11-02.10.44:471][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.11-02.10.44:478][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.11-02.10.44:516][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.11-02.10.44:557][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.11-02.10.44:557][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Intermediate/Shaders/WorkingDirectory/28136/).
+[2022.01.11-02.10.44:557][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mitch/AppData/Local/Temp/UnrealShaderWorkingDir/EC920A404D0AFC251DE9B0A9BC21F2A1/'.
+[2022.01.11-02.10.44:557][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.11-02.10.44:558][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.11-02.10.44:558][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.11-02.10.45:365][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.11-02.10.45:474][  0]LogDerivedDataCache: Loaded boot cache 0.11s 99MB C:/Users/Mitch/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.11-02.10.45:474][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mitch/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.11-02.10.45:474][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.11-02.10.45:474][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.11-02.10.45:474][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.11-02.10.45:474][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.11-02.10.45:492][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.11-02.10.45:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.11-02.10.45:492][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.11-02.10.45:517][  0]LogDerivedDataCache: Speed tests for C:/Users/Mitch/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.01.11-02.10.45:517][  0]LogDerivedDataCache: Display: Performance to C:/Users/Mitch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1110.21MBs, RandomWriteSpeed=40.49MBs. Assigned SpeedClass 'Local'
+[2022.01.11-02.10.45:537][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mitch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.11-02.10.45:537][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.11-02.10.45:537][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.11-02.10.45:582][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.11-02.10.45:583][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.11-02.10.45:611][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2022.01.11-02.10.45:864][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.11-02.10.45:864][  0]LogInit: Active device profile: [00000153F8165400][00000153EFB2F400 49] Windows
+[2022.01.11-02.10.45:864][  0]LogInit: Profiles: [00000153F8165400][00000153EFB2F400 49] Windows, [00000153F8116600][00000153F6D27580 49] WindowsNoEditor, [00000153F812FF00][00000153F6EA3700 49] WindowsServer, [00000153F8165600][00000153F6EA7880 49] WindowsClient, [00000153F8117D00][00000153F6EABA00 49] IOS, [00000153F812C700][00000153EFE67B80 49] iPadAir, [00000153F8114600][00000153EFE6A180 49] iPadAir2, [00000153F80B4500][00000153EFDE8440 49] IPadPro, [00000153F80B4600][00000153EFE6E480 49] iPadAir3, [00000153F812C300][00000153EFDEC600 49] iPadAir4, [00000153F80B5300][00000153EFDF0780 49] iPadMini2, [00000153F812F900][00000153EFDF4900 49] iPadMini3, [00000153F80B7200][00000153F6D22A40 49] iPadMini4, [00000153F812FC00][00000153F79F2B80 49] iPadMini5, [00000153F80AFE00][00000153F79FADC0 49] iPhone6, [00000153F80AFF00][00000153F79F6E00 49] iPodTouch6, [00000153F8167600][00000153F7A070C0 49] iPhone7, [00000153F8165700][00000153F7A03100 49] iPodTouch7, [00000153F80AC700][00000153F7A0B280 49] iPhone5S, [00000153F80B6F00][00000153F7A0F400 49] iPhone6Plus, [00000153F80AE000][00000153F7A13580 49] iPhone6S, [00000153F80B5000][00000153F7A17700 49] iPhone6SPlus, [00000153F80ACA00][00000153F7A1B880 49] iPhone7Plus, [00000153F80B7E00][00000153F7A1FA00 49] iPhoneSE, [00000153F8167200][00000153F7A23B80 49] iPhone8, [00000153F80B6D00][00000153F7A26180 49] iPhone8Plus, [00000153F8166800][00000153F7A2A300 49] iPhoneX, [00000153F80B5800][00000153F7A2E480 49] iPhoneXS, [00000153F8166200][00000153F7A32600 49] iPhoneXSMax, [00000153F80B5200][00000153F7A36780 49] iPhoneXR, [00000153F8164D00][00000153F7A3A900 49] iPhone11, [00000153F80B6E00][00000153F7A3EA80 49] iPhone11Pro, [00000153F8165D00][00000153F79FEBC0 49] iPhone11ProMax, [00000153F80B5600][00000153F7A42D00 49] iPhoneSE2, [00000153F8164800][00000153F7A46E40 49] iPhone12Mini, [00000153F80B4F00][00000153F7A4AF80 49] iPhone12, [00000153F8166600][00000153F7A53100 49] iPhone12Pro, [00000153F80B6300][00000153F7A57280 49] iPhone12ProMax, [00000153F8164700][00000153F7A5B400 49] iPadPro105, [00000153F80B7400][00000153F7A5F580 49] iPadPro129, [00000153F8164F00][00000153F7A63700 49] iPadPro97, [00000153F80B6A00][00000153F7A67880 49] iPadPro2_129, [00000153F8165E00][00000153F7A6BA00 49] iPad5, [00000153F80B5B00][00000153F7A6FB80 49] iPad6, [00000153F8166500][00000153F7A72180 49] iPad7, [00000153F80B7D00][00000153F7A76300 49] iPad8, [00000153F8166100][00000153F7A7A480 49] iPadPro11, [00000153F80B6600][00000153F7A7E600 49] iPadPro2_11, [00000153F8164500][00000153F7A82780 49] iPadPro3_129, [00000153F80B5C00][00000153F7A86900 49] iPadPro4_129, [00000153F8166900][00000153F7A8AA80 49] AppleTV, [00000153F80B4D00][00000153F7A8EC00 49] AppleTV4K, [00000153F8164100][00000153F7A4ED40 49] TVOS, [00000153F80B4300][00000153F7A92E80 49] Mac, [00000153F8167000][00000153F7A96FC0 49] MacClient, [00000153F80B5400][00000153F7A9B100 49] MacNoEditor, [00000153F8167900][00000153F7AA3280 49] MacServer, [00000153F80B4800][00000153F7AA7400 49] Linux, [00000153F8165B00][00000153F7AAB580 49] LinuxAArch64, [00000153F80B5900][00000153F7AAF700 49] LinuxNoEditor, [00000153F8166B00][00000153F7AB3880 49] LinuxAArch64NoEditor, [00000153F80B6100][00000153F7AB7A00 49] LinuxClient, [00000153F8165C00][00000153F7ABBB80 49] LinuxAArch64Client, [00000153F80B4E00][00000153F7ABE180 49] LinuxServer, [00000153F8166300][00000153F7AC2300 49] LinuxAArch64Server, [00000153F80B5A00][00000153F7AC6480 49] Android, [00000153F812D100][00000153F7ACA600 49] Android_Low, [00000153F80AFC00][00000153F7ACE780 49] Android_Mid, [00000153F812CF00][00000153F7AD2900 49] Android_High, [00000153F80AF400][00000153F7AD6A80 49] Android_Default, [00000153F812CE00][00000153F7ADAC00 49] Android_Adreno4xx, [00000153F80AFA00][00000153F73D2D80 49] Android_Adreno5xx_Low, [00000153F812C600][00000153F73D6F00 49] Android_Adreno5xx, [00000153F80AD900][00000153F7A9F040 49] Android_Adreno6xx, [00000153F812DE00][00000153F73DB180 49] Android_Adreno6xx_Vulkan, [00000153F80AF200][00000153F73DF2C0 49] Android_Mali_T6xx, [00000153F812E900][00000153F73E7440 49] Android_Mali_T7xx, [00000153F80ACC00][00000153F73EB5C0 49] Android_Mali_T8xx, [00000153F812E700][00000153F73EF740 49] Android_Mali_G71, [00000153F80AEA00][00000153F73F38C0 49] Android_Mali_G72, [00000153F812F100][00000153F73F7A40 49] Android_Mali_G72_Vulkan, [00000153F80AE800][00000153F73FBBC0 49] Android_Mali_G76, [00000153F812D700][00000153F73FE1C0 49] Android_Mali_G76_Vulkan, [00000153F80AD500][00000153F7402340 49] Android_Mali_G77, [00000153F812E600][00000153F74064C0 49] Android_Mali_G77_Vulkan, [00000153F80AFB00][00000153F740A640 49] Android_Mali_G78, [00000153F812C900][00000153F740E7C0 49] Android_Mali_G78_Vulkan, [00000153F80AC900][00000153F7412940 49] Android_Mali_G710, [00000153F812E400][00000153F7416AC0 49] Android_Mali_G710_Vulkan, [00000153F80AF700][00000153F741AC40 49] Android_Vulkan_SM5, [00000153F812CD00][00000153F741EDC0 49] Android_PowerVR_G6xxx, [00000153F80ACE00][00000153F7422F40 49] Android_PowerVR_GT7xxx, [00000153F812F800][00000153F74270C0 49] Android_PowerVR_GE8xxx, [00000153F80AD400][00000153F73E3200 49] Android_PowerVR_GM9xxx, [00000153F80B5100][00000153F742B340 49] Android_PowerVR_GM9xxx_Vulkan, [00000153F80AC500][00000153F742F480 49] Android_TegraK1, [00000153F80B5500][00000153F74335C0 49] Android_Unknown_Vulkan, [00000153F80AF300][00000153F743B740 49] Lumin, [00000153F80B7C00][00000153F743F8C0 49] Lumin_Desktop, [00000153F80AD300][00000153F7443A40 49] HoloLens, 
+[2022.01.11-02.10.46:017][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.11-02.10.46:017][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.11-02.10.46:017][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.11-02.10.46:017][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.11-02.10.46:017][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.11-02.10.46:034][  0]LogNetVersion: GunMiniGolfCoded 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2763643290)
+[2022.01.11-02.10.46:398][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.11-02.10.46:463][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.11-02.10.46:468][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.01.11-02.10.46:469][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.01.11-02.10.46:469][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.11-02.10.46:819][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A2771F2C488E152050074A97B6A6CCFF | Instance: 5F750FAB480C9CDFC0EA50A804CDB782 (MITCH-WORKSTATI-28136).
+[2022.01.11-02.10.46:965][  0]LogPython: Using Python 3.7.7
+[2022.01.11-02.10.47:463][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.11-02.10.47:471][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.11-02.10.48:134][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.11-02.10.48:170][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.11-02.10.48:200][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.11-02.10.48:200][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.11-02.10.48:341][  0]SourceControl: Source control is disabled
+[2022.01.11-02.10.48:341][  0]SourceControl: Source control is disabled
+[2022.01.11-02.10.48:344][  0]SourceControl: Source control is disabled
+[2022.01.11-02.10.48:347][  0]SourceControl: Source control is disabled
+[2022.01.11-02.10.48:351][  0]SourceControl: Source control is disabled
+[2022.01.11-02.10.48:366][  0]LogUProjectInfo: Found projects:
+[2022.01.11-02.10.48:385][  0]LogCollectionManager: Loaded 0 collections in 0.002030 seconds
+[2022.01.11-02.10.48:413][  0]LogFileCache: Scanning file cache for directory 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Collections/' took 0.00s
+[2022.01.11-02.10.48:413][  0]LogFileCache: Scanning file cache for directory 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/Developers/Mitch/Collections/' took 0.00s
+[2022.01.11-02.10.48:413][  0]LogFileCache: Scanning file cache for directory 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/Collections/' took 0.00s
+[2022.01.11-02.10.48:413][  0]LogOcInput: OculusInput pre-init called
+[2022.01.11-02.10.48:657][  0]LogEngine: Initializing Engine...
+[2022.01.11-02.10.48:658][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.11-02.10.48:658][  0]LogHMD: Initializing OVRPlugin session
+[2022.01.11-02.10.48:910][  0]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.01.11-02.10.48:910][  0]LogHMD: Oculus plugin initialized. Version: 4.27.2-18319896+++UE4+Release-4.27, OVRPlugin: 1.59.0
+[2022.01.11-02.10.48:911][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.11-02.10.49:143][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.11-02.10.49:156][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.11-02.10.49:165][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.11-02.10.49:171][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.11-02.10.49:172][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.11-02.10.49:173][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.11-02.10.49:173][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.11-02.10.49:173][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.11-02.10.49:173][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.11-02.10.49:173][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.11-02.10.49:173][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.11-02.10.49:173][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.11-02.10.49:173][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.11-02.10.49:173][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.11-02.10.49:173][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.11-02.10.49:174][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.11-02.10.49:174][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.11-02.10.49:174][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.11-02.10.49:174][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.11-02.10.49:231][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-02.10.49:231][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-02.10.49:257][  0]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis 5 Game)
+[2022.01.11-02.10.49:259][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.11-02.10.49:261][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.11-02.10.49:261][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.11-02.10.49:262][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.11-02.10.49:262][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.11-02.10.49:262][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.11-02.10.49:263][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.11-02.10.49:263][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.11-02.10.49:263][  0]LogInit: FAudioDevice initialized.
+[2022.01.11-02.10.49:263][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.11-02.10.49:263][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.11-02.10.49:327][  0]LogDerivedDataCache: Saved boot cache 0.06s 99MB C:/Users/Mitch/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.11-02.10.49:328][  0]LogInit: Texture streaming: Enabled
+[2022.01.11-02.10.49:343][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.11-02.10.49:348][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.11-02.10.49:348][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.11-02.10.49:351][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.11-02.10.49:383][  0]LogInit: Transaction tracking system initialized
+[2022.01.11-02.10.49:416][  0]BlueprintLog: New page: Editor Load
+[2022.01.11-02.10.49:496][  0]LocalizationService: Localization service is disabled
+[2022.01.11-02.10.49:527][  0]TimingProfiler: Initialize
+[2022.01.11-02.10.49:527][  0]TimingProfiler: OnSessionChanged
+[2022.01.11-02.10.49:527][  0]LoadingProfiler: Initialize
+[2022.01.11-02.10.49:527][  0]LoadingProfiler: OnSessionChanged
+[2022.01.11-02.10.49:527][  0]NetworkingProfiler: Initialize
+[2022.01.11-02.10.49:527][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.11-02.10.49:527][  0]MemoryProfiler: Initialize
+[2022.01.11-02.10.49:527][  0]MemoryProfiler: OnSessionChanged
+[2022.01.11-02.10.49:705][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.11-02.10.49:705][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.11-02.10.49:971][  0]LogFileCache: Scanning file cache for directory 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/' took 0.01s
+[2022.01.11-02.10.50:159][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.11-02.10.50:163][  0]SourceControl: Source control is disabled
+[2022.01.11-02.10.50:163][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.084
+[2022.01.11-02.10.50:163][  0]Cmd: MAP LOAD FILE="E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.11-02.10.50:164][  0]LightingResults: New page: Lighting Build
+[2022.01.11-02.10.50:165][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.10.50:165][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.10.50:166][  0]MapCheck: New page: Map Check
+[2022.01.11-02.10.50:166][  0]LightingResults: New page: Lighting Build
+[2022.01.11-02.10.50:171][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.11-02.10.50:174][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.01.11-02.10.50:235][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.01.11-02.10.50:236][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.11-02.10.50:245][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.11-02.10.50:257][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.01.11-02.10.50:258][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.11-02.10.50:258][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2022.01.11-02.10.50:258][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.095
+[2022.01.11-02.10.50:261][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.181
+[2022.01.11-02.10.50:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.10.50:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.10.50:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.10.50:492][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.10.50:514][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0131 seconds. Added 3827 classes and 930 folders.
+[2022.01.11-02.10.50:520][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2022.01.11-02.10.50:527][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.11-02.10.50:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.11-02.10.50:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.11-02.10.50:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.01.11-02.10.50:529][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.11-02.10.50:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.11-02.10.50:529][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:529][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.11-02.10.50:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.01.11-02.10.50:530][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.11-02.10.50:530][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:530][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.11-02.10.50:530][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:530][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.11-02.10.50:530][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.11-02.10.50:531][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.11-02.10.50:531][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:531][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.11-02.10.50:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.11-02.10.50:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.01.11-02.10.50:533][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.11-02.10.50:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.11-02.10.50:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.11-02.10.50:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.11-02.10.50:534][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.11-02.10.50:534][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:534][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.11-02.10.50:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.11-02.10.50:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.11-02.10.50:535][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.11-02.10.50:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.11-02.10.50:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.11-02.10.50:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.01.11-02.10.50:536][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.11-02.10.50:536][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:536][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.11-02.10.50:536][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:536][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.11-02.10.50:536][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.01.11-02.10.50:537][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.11-02.10.50:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.11-02.10.50:537][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:537][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.11-02.10.50:537][  0]LogPakFile: OnPakFileMounted2Time == 0.000236
+[2022.01.11-02.10.50:539][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.11-02.10.50:539][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:539][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.11-02.10.50:539][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:539][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.11-02.10.50:539][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.01.11-02.10.50:540][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.11-02.10.50:540][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:540][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.11-02.10.50:540][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:540][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.11-02.10.50:540][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.01.11-02.10.50:540][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.11-02.10.50:540][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:540][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.11-02.10.50:540][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:540][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.11-02.10.50:540][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.01.11-02.10.50:541][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.11-02.10.50:541][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:541][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.11-02.10.50:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.11-02.10.50:541][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.01.11-02.10.50:542][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.11-02.10.50:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.11-02.10.50:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.11-02.10.50:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.01.11-02.10.50:543][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.11-02.10.50:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:543][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.11-02.10.50:543][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:543][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.11-02.10.50:543][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.01.11-02.10.50:544][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.11-02.10.50:544][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:544][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.11-02.10.50:544][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:544][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.11-02.10.50:544][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.01.11-02.10.50:545][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.11-02.10.50:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.11-02.10.50:545][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:545][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.11-02.10.50:545][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.01.11-02.10.50:546][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.11-02.10.50:546][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:546][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.11-02.10.50:546][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:546][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.11-02.10.50:546][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.11-02.10.50:547][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.11-02.10.50:547][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:547][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.11-02.10.50:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.11-02.10.50:547][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.11-02.10.50:548][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.11-02.10.50:548][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:548][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.11-02.10.50:548][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:548][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.11-02.10.50:548][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.01.11-02.10.50:549][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.11-02.10.50:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.11-02.10.50:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.11-02.10.50:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.01.11-02.10.50:551][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.11-02.10.50:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.11-02.10.50:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.11-02.10.50:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.01.11-02.10.50:553][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.11-02.10.50:553][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:553][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.11-02.10.50:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.11-02.10.50:553][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.01.11-02.10.50:554][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.11-02.10.50:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.11-02.10.50:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.11-02.10.50:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.11-02.10.50:555][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.11-02.10.50:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.11-02.10.50:555][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:555][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.11-02.10.50:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.01.11-02.10.50:556][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.11-02.10.50:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.11-02.10.50:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.11-02.10.50:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.11-02.10.50:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.11-02.10.50:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.01.11-02.10.50:607][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.01.11-02.10.50:608][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.01.11-02.10.50:666][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.11-02.10.50:666][  0]LogLoad: (Engine Initialization) Total time: 9.59 seconds
+[2022.01.11-02.10.50:666][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.11-02.10.50:678][  0]LogOcInput: OculusInput is initialized
+[2022.01.11-02.10.50:718][  0]LogAssetRegistry: Asset discovery search completed in 5.1082 seconds
+[2022.01.11-02.10.50:725][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.01.11-02.10.50:726][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.11-02.10.50:733][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.11-02.10.50:734][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.11-02.10.50:734][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.11-02.10.50:846][  0]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2022.01.11-02.11.09:499][166]LogRenderer: Reallocating scene render targets to support 1204x572 Format 10 NumSamples 1 (Frame:120).
+[2022.01.11-02.11.21:594][251]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.11-02.11.23:101][386]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.11-02.11.23:135][386]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GunMiniGolf/Blueprints/GrenadeTest.GrenadeTest
+[2022.01.11-02.11.23:391][386]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2022.01.11-02.11.24:296][386]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.11.24:305][386]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.11-02.11.28:249][685]LogSlate: Window 'GrenadeTest' being destroyed
+[2022.01.11-02.11.31:171][877]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.11-02.11.31:177][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.11-02.11.31:178][877]PIE: New page: PIE session: FirstPersonExampleMap (Jan 10, 2022, 12:11:31 PM)
+[2022.01.11-02.11.31:179][877]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.11-02.11.31:180][877]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.11-02.11.31:180][877]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.11.31:198][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018817s)
+[2022.01.11-02.11.31:199][877]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.11-02.11.31:199][877]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2022.01.11-02.11.31:199][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020073s)
+[2022.01.11-02.11.31:224][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.01.11-02.11.31:226][877]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.11-02.11.31:226][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.11-02.11.31:226][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.11-02.11.31:226][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.11-02.11.31:226][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.11-02.11.31:226][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.11-02.11.31:226][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.11-02.11.31:226][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.11-02.11.31:226][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.11-02.11.31:227][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.11-02.11.31:227][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.11-02.11.31:227][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.11-02.11.31:227][877]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.11-02.11.31:233][877]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-02.11.31:233][877]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-02.11.31:240][877]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis 5 Game)
+[2022.01.11-02.11.31:241][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.11-02.11.31:241][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.11-02.11.31:241][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.11-02.11.31:241][877]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.11-02.11.31:241][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.11-02.11.31:241][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.11-02.11.31:242][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.11-02.11.31:242][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.11-02.11.31:242][877]LogInit: FAudioDevice initialized.
+[2022.01.11-02.11.31:242][877]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.01.11-02.11.31:252][877]LogLoad: Game class is 'GunMiniGolfCodedGameMode'
+[2022.01.11-02.11.31:256][877]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.01.10-19.11.31
+[2022.01.11-02.11.31:256][877]LogWorld: Bringing up level for play took: 0.002599
+[2022.01.11-02.11.31:257][877]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.01.11-02.11.31:261][877]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.11-02.11.31:261][877]PIE: Server logged in
+[2022.01.11-02.11.31:262][877]PIE: Play in editor total start time 0.087 seconds.
+[2022.01.11-02.11.31:270][877]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2022.01.11-02.11.36:073][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.11.36:073][236]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.11.36:074][236]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.11.36:074][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.11.36:085][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.11-02.11.36:103][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.11.36:130][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.11.36:131][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.11.36:132][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.11.36:150][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.01.11-02.11.36:198][237]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.01.11-02.11.47:577][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2022.01.11-02.11.48:121][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.01.11-02.11.48:173][898]LogSavePackage: Moving 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/FirstPersonExampleMap2FDE48EB40FE6CB8D67678898D6CDDC6.tmp' to 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2022.01.11-02.11.48:816][898]LogSavePackage: Moving 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/FirstPersonExampleMap_BuiltDataC7C0806E4BB4EBA4CFE4FCBB5819A4F7.tmp' to 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.01.11-02.11.48:885][898]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-02.11.48:885][898]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.01.11-02.11.48:885][898]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.01.11-02.11.49:992][958]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.11-02.11.50:000][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.11-02.11.50:000][958]LogHMD: Initializing OVRPlugin session
+[2022.01.11-02.11.50:159][958]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.01.11-02.11.50:160][958]PIE: New page: PIE session: FirstPersonExampleMap (Jan 10, 2022, 12:11:50 PM)
+[2022.01.11-02.11.50:192][958]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.11.50:205][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012950s)
+[2022.01.11-02.11.50:206][958]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.11-02.11.50:207][958]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2022.01.11-02.11.50:207][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014310s)
+[2022.01.11-02.11.50:251][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.01.11-02.11.50:251][958]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.11-02.11.50:251][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.11-02.11.50:251][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.11-02.11.50:251][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.11-02.11.50:251][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.11-02.11.50:251][958]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.11-02.11.50:251][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.11-02.11.50:251][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.11-02.11.50:251][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.11-02.11.50:252][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.11-02.11.50:252][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.11-02.11.50:252][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.11-02.11.50:252][958]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.11-02.11.50:260][958]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-02.11.50:261][958]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-02.11.50:268][958]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis 5 Game)
+[2022.01.11-02.11.50:268][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.11-02.11.50:268][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.11-02.11.50:268][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.11-02.11.50:268][958]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.11-02.11.50:268][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.11-02.11.50:268][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.11-02.11.50:269][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.11-02.11.50:269][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.11-02.11.50:269][958]LogInit: FAudioDevice initialized.
+[2022.01.11-02.11.50:269][958]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.01.11-02.11.50:281][958]LogLoad: Game class is 'GunMiniGolfCodedGameMode'
+[2022.01.11-02.11.50:283][958]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.01.10-19.11.50
+[2022.01.11-02.11.50:284][958]LogWorld: Bringing up level for play took: 0.002065
+[2022.01.11-02.11.50:284][958]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.01.11-02.11.50:286][958]PIE: Server logged in
+[2022.01.11-02.11.50:288][958]PIE: Play in editor total start time 0.29 seconds.
+[2022.01.11-02.11.50:307][959]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2022.01.11-02.11.51:914][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.11.51:914][ 79]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.11.51:914][ 79]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.11.51:914][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.11.51:923][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.11-02.11.51:952][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.11.51:977][ 79]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.11-02.11.51:977][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.11.51:978][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.11.51:980][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.11.51:983][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.01.11-02.11.52:036][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.01.11-02.11.56:914][428]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-02.12.00:156][663]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.11-02.12.00:164][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.11-02.12.00:164][663]LogHMD: Initializing OVRPlugin session
+[2022.01.11-02.12.00:318][663]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.01.11-02.12.00:318][663]PIE: New page: PIE session: FirstPersonExampleMap (Jan 10, 2022, 12:12:00 PM)
+[2022.01.11-02.12.00:352][663]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.12.00:366][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014213s)
+[2022.01.11-02.12.00:367][663]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.11-02.12.00:367][663]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2022.01.11-02.12.00:367][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015413s)
+[2022.01.11-02.12.00:400][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.01.11-02.12.00:401][663]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.11-02.12.00:401][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.11-02.12.00:401][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.11-02.12.00:401][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.11-02.12.00:401][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.11-02.12.00:401][663]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.11-02.12.00:401][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.11-02.12.00:401][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.11-02.12.00:401][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.11-02.12.00:401][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.11-02.12.00:401][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.11-02.12.00:401][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.11-02.12.00:401][663]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.11-02.12.00:408][663]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-02.12.00:408][663]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-02.12.00:415][663]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis 5 Game)
+[2022.01.11-02.12.00:416][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.11-02.12.00:416][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.11-02.12.00:416][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.11-02.12.00:416][663]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.11-02.12.00:416][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.11-02.12.00:416][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.11-02.12.00:417][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.11-02.12.00:417][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.11-02.12.00:417][663]LogInit: FAudioDevice initialized.
+[2022.01.11-02.12.00:417][663]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.01.11-02.12.00:427][663]LogLoad: Game class is 'GunMiniGolfCodedGameMode'
+[2022.01.11-02.12.00:429][663]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.01.10-19.12.00
+[2022.01.11-02.12.00:429][663]LogWorld: Bringing up level for play took: 0.001690
+[2022.01.11-02.12.00:429][663]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.01.11-02.12.00:431][663]PIE: Server logged in
+[2022.01.11-02.12.00:432][663]PIE: Play in editor total start time 0.269 seconds.
+[2022.01.11-02.12.00:450][664]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2022.01.11-02.12.03:683][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.12.03:683][943]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.12.03:684][943]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.12.03:684][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.12.03:698][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.11-02.12.03:713][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.12.03:738][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.11-02.12.03:738][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.12.03:739][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.12.03:741][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.12.03:744][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.01.11-02.12.03:801][944]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.01.11-02.12.08:029][179]Cmd: TRANSACTION UNDO
+[2022.01.11-02.12.08:030][179]LogEditorTransaction: Undo Replace component used material
+[2022.01.11-02.12.16:613][694]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.01.11-02.12.17:513][757]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.11-02.12.17:519][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.11-02.12.17:519][757]LogHMD: Initializing OVRPlugin session
+[2022.01.11-02.12.17:679][757]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.01.11-02.12.17:679][757]PIE: New page: PIE session: FirstPersonExampleMap (Jan 10, 2022, 12:12:17 PM)
+[2022.01.11-02.12.17:680][757]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.12.17:692][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012321s)
+[2022.01.11-02.12.17:693][757]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.11-02.12.17:694][757]LogPlayLevel: PIE: World Init took: (0.001665s)
+[2022.01.11-02.12.17:694][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014234s)
+[2022.01.11-02.12.17:722][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.01.11-02.12.17:725][757]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.01.11-02.12.17:725][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.11-02.12.17:725][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.11-02.12.17:725][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.11-02.12.17:725][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.11-02.12.17:725][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.11-02.12.17:725][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.11-02.12.17:725][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.11-02.12.17:725][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.11-02.12.17:726][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.11-02.12.17:726][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.11-02.12.17:726][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.11-02.12.17:726][757]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.11-02.12.17:733][757]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-02.12.17:733][757]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-02.12.17:740][757]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis 5 Game)
+[2022.01.11-02.12.17:740][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.11-02.12.17:740][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.11-02.12.17:740][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.11-02.12.17:740][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.11-02.12.17:740][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.11-02.12.17:740][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.11-02.12.17:741][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.11-02.12.17:741][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.11-02.12.17:741][757]LogInit: FAudioDevice initialized.
+[2022.01.11-02.12.17:741][757]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.01.11-02.12.17:750][757]LogLoad: Game class is 'GunMiniGolfCodedGameMode'
+[2022.01.11-02.12.17:752][757]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.01.10-19.12.17
+[2022.01.11-02.12.17:752][757]LogWorld: Bringing up level for play took: 0.001560
+[2022.01.11-02.12.17:752][757]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.01.11-02.12.17:754][757]PIE: Server logged in
+[2022.01.11-02.12.17:755][757]PIE: Play in editor total start time 0.238 seconds.
+[2022.01.11-02.12.17:763][757]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2022.01.11-02.12.19:743][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.12.19:743][921]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.12.19:744][921]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.12.19:744][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.12.19:757][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.11-02.12.19:768][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.12.19:790][921]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.11-02.12.19:790][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.12.19:792][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.12.19:794][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.12.19:798][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.01.11-02.12.19:844][922]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.01.11-02.12.24:481][259]LogSlate: Window 'GrenadeTest' being destroyed
+[2022.01.11-02.12.26:336][435]LogEditorViewport: Clicking on Actor (LMB): GrenadeTest_C (GrenadeTest)
+[2022.01.11-02.18.37:995][856]LogRenderer: Reallocating scene render targets to support 1204x896 Format 10 NumSamples 1 (Frame:1).
+[2022.01.11-02.22.07:733][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.01.11-02.22.07:757][374]LogSavePackage: Moving 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/FirstPersonExampleMap_Auto187864F4D4E8690BEA5A31BA781B0C5AD.tmp' to 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.01.11-02.22.07:758][374]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.064
+[2022.01.11-02.22.07:758][374]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2022.01.11-02.24.24:667][937]Candidate modules for hot reload:
+[2022.01.11-02.24.24:667][937]  GunMiniGolfCoded
+[2022.01.11-02.24.24:667][937]Launching UnrealBuildTool... [C:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GunMiniGolfCoded,0898 GunMiniGolfCodedEditor Win64 Development -Project="E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject" "E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject"  -IgnoreJunk]
+[2022.01.11-02.24.24:670][937]Warning: Starting HotReload took  0.0s.
+[2022.01.11-02.24.35:264][702]CompilerResultsLog: New page: Compilation - Jan 10, 2022, 12:24:35 PM
+[2022.01.11-02.24.35:264][702]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC).
+[2022.01.11-02.24.35:264][702]CompilerResultsLog: Parsing headers for GunMiniGolfCodedEditor
+[2022.01.11-02.24.35:264][702]CompilerResultsLog:   Running UnrealHeaderTool "E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\GunMiniGolfCoded.uproject" "E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\GunMiniGolfCodedEditor\Development\GunMiniGolfCodedEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Mitch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.11-02.24.35:264][702]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.11-02.24.35:264][702]CompilerResultsLog: Reflection code generated for GunMiniGolfCodedEditor in 5.2364051 seconds
+[2022.01.11-02.24.35:264][702]CompilerResultsLog: Building GunMiniGolfCodedEditor...
+[2022.01.11-02.24.35:264][702]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.11-02.24.35:264][702]CompilerResultsLog: Building 6 actions with 8 processes...
+[2022.01.11-02.24.35:264][702]CompilerResultsLog:   [1/6] GunMiniGolfCoded.init.gen.cpp
+[2022.01.11-02.24.35:264][702]CompilerResultsLog:   [2/6] DilationGrenade.gen.cpp
+[2022.01.11-02.24.35:265][702]CompilerResultsLog:   [3/6] DilationGrenade.cpp
+[2022.01.11-02.24.35:265][702]CompilerResultsLog:   [4/6] UE4Editor-GunMiniGolfCoded-0898.lib
+[2022.01.11-02.24.35:265][702]CompilerResultsLog:      Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-0898.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-0898.exp
+[2022.01.11-02.24.35:265][702]CompilerResultsLog:   [5/6] UE4Editor-GunMiniGolfCoded-0898.dll
+[2022.01.11-02.24.35:265][702]CompilerResultsLog:      Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-0898.suppressed.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-0898.suppressed.exp
+[2022.01.11-02.24.35:265][702]CompilerResultsLog:   [6/6] GunMiniGolfCodedEditor.target
+[2022.01.11-02.24.35:265][702]CompilerResultsLog: Total time in Parallel executor: 3.53 seconds
+[2022.01.11-02.24.35:265][702]CompilerResultsLog: Total execution time: 10.30 seconds
+[2022.01.11-02.24.35:265][702]LogMainFrame: MainFrame: Module compiling took 10.619 seconds
+[2022.01.11-02.24.35:298][702]LogClass: Could not find existing class DilationGrenade in package /Script/GunMiniGolfCoded for HotReload, assuming new class
+[2022.01.11-02.24.35:298][702]LogClass: Function OnOverlapBegin is new.
+[2022.01.11-02.24.35:298][702]LogClass: Function OnOverlapEnd is new.
+[2022.01.11-02.24.35:314][702]LogHotReload: Re-instancing DilationGrenade after hot-reload.
+[2022.01.11-02.24.35:328][702]LogActor: Warning: GrenadeTest_C /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.24.35:330][702]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.24.35:434][702]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'GunMiniGolfCoded' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.01.11-02.24.35:441][702]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.01.11-02.24.35:536][702]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3827 classes and 930 folders.
+[2022.01.11-02.24.35:536][702]Display: HotReload took 10.9s.
+[2022.01.11-02.24.41:452][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.11-02.24.41:459][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.11-02.24.41:459][ 94]LogHMD: Initializing OVRPlugin session
+[2022.01.11-02.24.41:625][ 94]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.01.11-02.24.41:625][ 94]PIE: New page: PIE session: FirstPersonExampleMap (Jan 10, 2022, 12:24:41 PM)
+[2022.01.11-02.24.41:626][ 94]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.24.41:644][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018275s)
+[2022.01.11-02.24.41:645][ 94]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.11-02.24.41:645][ 94]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2022.01.11-02.24.41:645][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019767s)
+[2022.01.11-02.24.41:731][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2022.01.11-02.24.41:734][ 94]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.01.11-02.24.41:734][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.11-02.24.41:734][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.11-02.24.41:734][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.11-02.24.41:734][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.11-02.24.41:734][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.11-02.24.41:735][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.11-02.24.41:735][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.11-02.24.41:735][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.11-02.24.41:735][ 94]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.11-02.24.41:735][ 94]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.11-02.24.41:735][ 94]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.11-02.24.41:735][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.11-02.24.41:742][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-02.24.41:742][ 94]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-02.24.41:751][ 94]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis 5 Game)
+[2022.01.11-02.24.41:751][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.11-02.24.41:751][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.11-02.24.41:751][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.11-02.24.41:752][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.11-02.24.41:752][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.11-02.24.41:752][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.11-02.24.41:753][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.11-02.24.41:753][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.11-02.24.41:753][ 94]LogInit: FAudioDevice initialized.
+[2022.01.11-02.24.41:753][ 94]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.01.11-02.24.41:765][ 94]LogLoad: Game class is 'GunMiniGolfCodedGameMode'
+[2022.01.11-02.24.41:767][ 94]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.01.10-19.24.41
+[2022.01.11-02.24.41:768][ 94]LogWorld: Bringing up level for play took: 0.001635
+[2022.01.11-02.24.41:768][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.01.11-02.24.41:770][ 94]PIE: Server logged in
+[2022.01.11-02.24.41:770][ 94]PIE: Play in editor total start time 0.313 seconds.
+[2022.01.11-02.24.41:788][ 95]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2022.01.11-02.24.43:894][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.24.43:894][306]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.24.43:894][306]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.24.43:895][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.24.43:902][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.11-02.24.43:930][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.24.43:955][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.11-02.24.43:955][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.24.43:956][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.24.43:960][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.24.43:987][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.01.11-02.24.44:026][307]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.01.11-02.26.52:877][728]LogSavePackage: Moving 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/GrenadeTestA031123443174866205D2EBBDFA3A08D.tmp' to 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/GunMiniGolf/Blueprints/GrenadeTest.uasset'
+[2022.01.11-02.26.52:933][728]AssetCheck: New page: Asset Save: GrenadeTest
+[2022.01.11-02.26.52:933][728]LogContentValidation: Display: Validating Blueprint /Game/GunMiniGolf/Blueprints/GrenadeTest.GrenadeTest
+[2022.01.11-02.26.53:874][829]BlueprintLog: New page: Compile GrenadeTest
+[2022.01.11-02.26.53:888][829]LogActor: Warning: GrenadeTest_C /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.26.53:909][829]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.26.53:986][829]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2022.01.11-02.27.22:811][443]LogSavePackage: Moving 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/GrenadeTest6E6F6EC04F6E81DB133CFE965AA531A0.tmp' to 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/GunMiniGolf/Blueprints/GrenadeTest.uasset'
+[2022.01.11-02.27.22:834][443]AssetCheck: New page: Asset Save: GrenadeTest
+[2022.01.11-02.27.22:834][443]LogContentValidation: Display: Validating Blueprint /Game/GunMiniGolf/Blueprints/GrenadeTest.GrenadeTest
+[2022.01.11-02.27.23:737][541]BlueprintLog: New page: Compile GrenadeTest
+[2022.01.11-02.27.23:748][541]LogActor: Warning: GrenadeTest_C /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.27.23:769][541]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.27.23:850][541]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2022.01.11-02.27.38:021][987]BlueprintLog: New page: Compile GrenadeTest
+[2022.01.11-02.27.38:040][987]LogActor: Warning: GrenadeTest_C /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.27.38:068][987]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.27.38:128][987]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.01.11-02.27.40:272][216]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.11-02.27.40:278][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.11-02.27.40:278][216]LogHMD: Initializing OVRPlugin session
+[2022.01.11-02.27.40:444][216]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.01.11-02.27.40:445][216]PIE: New page: PIE session: FirstPersonExampleMap (Jan 10, 2022, 12:27:40 PM)
+[2022.01.11-02.27.40:445][216]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.27.40:459][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013797s)
+[2022.01.11-02.27.40:460][216]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.11-02.27.40:461][216]LogPlayLevel: PIE: World Init took: (0.001824s)
+[2022.01.11-02.27.40:461][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015860s)
+[2022.01.11-02.27.40:494][216]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.01.11-02.27.40:495][216]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.01.11-02.27.40:495][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.11-02.27.40:495][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.11-02.27.40:495][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.11-02.27.40:495][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.11-02.27.40:495][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.11-02.27.40:495][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.11-02.27.40:495][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.11-02.27.40:495][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.11-02.27.40:496][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.11-02.27.40:496][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.11-02.27.40:496][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.11-02.27.40:496][216]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.11-02.27.40:502][216]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-02.27.40:502][216]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-02.27.40:510][216]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis 5 Game)
+[2022.01.11-02.27.40:510][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.11-02.27.40:510][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.11-02.27.40:510][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.11-02.27.40:511][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.11-02.27.40:511][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.11-02.27.40:511][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.11-02.27.40:512][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.11-02.27.40:512][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.11-02.27.40:512][216]LogInit: FAudioDevice initialized.
+[2022.01.11-02.27.40:512][216]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.01.11-02.27.40:581][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.27.40:582][216]LogLoad: Game class is 'GunMiniGolfCodedGameMode'
+[2022.01.11-02.27.40:585][216]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.01.10-19.27.40
+[2022.01.11-02.27.40:586][216]LogWorld: Bringing up level for play took: 0.003522
+[2022.01.11-02.27.40:586][216]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.01.11-02.27.40:595][216]PIE: Server logged in
+[2022.01.11-02.27.40:597][216]PIE: Play in editor total start time 0.32 seconds.
+[2022.01.11-02.27.40:638][216]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2022.01.11-02.27.40:657][217]LogRenderer: Reallocating scene render targets to support 1280x896 Format 10 NumSamples 1 (Frame:1).
+[2022.01.11-02.27.42:562][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.27.42:562][383]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.27.42:563][383]LogSlate: Window 'GunMiniGolfCoded Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.11-02.27.42:574][383]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.27.42:575][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.27.42:593][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.11-02.27.42:619][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.27.42:646][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.11-02.27.42:646][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.27.42:647][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.27.42:654][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.01.11-02.27.42:683][384]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.01.11-02.27.48:126][878]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-02.27.51:882][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.01.11-02.27.51:908][197]LogSavePackage: Moving 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/FirstPersonExampleMapEF03E45E4C7DABD3AD6190A486840CB2.tmp' to 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2022.01.11-02.27.52:219][197]LogSavePackage: Moving 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/FirstPersonExampleMap_BuiltData6D7FBAB84981FA4FA122CB9E71BC5777.tmp' to 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.01.11-02.27.52:266][197]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-02.27.52:266][197]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.01.11-02.27.52:266][197]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.01.11-02.28.08:120][389]BlueprintLog: New page: Compile GrenadeTest
+[2022.01.11-02.28.08:132][389]LogActor: Warning: GrenadeTest_C /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.28.08:151][389]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.28.08:209][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.01.11-02.28.09:375][509]LogSavePackage: Moving 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Saved/GrenadeTestF4CB55254E68519405BB0BA90E9BAA67.tmp' to 'E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/Content/GunMiniGolf/Blueprints/GrenadeTest.uasset'
+[2022.01.11-02.28.09:482][509]AssetCheck: New page: Asset Save: GrenadeTest
+[2022.01.11-02.28.09:483][509]LogContentValidation: Display: Validating Blueprint /Game/GunMiniGolf/Blueprints/GrenadeTest.GrenadeTest
+[2022.01.11-02.28.11:692][674]Candidate modules for hot reload:
+[2022.01.11-02.28.11:692][674]  GunMiniGolfCoded
+[2022.01.11-02.28.11:692][674]Launching UnrealBuildTool... [C:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GunMiniGolfCoded,7112 GunMiniGolfCodedEditor Win64 Development -Project="E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject" "E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject"  -IgnoreJunk]
+[2022.01.11-02.28.11:695][674]Warning: Starting HotReload took  0.0s.
+[2022.01.11-02.28.22:129][975]CompilerResultsLog: New page: Compilation - Jan 10, 2022, 12:28:22 PM
+[2022.01.11-02.28.22:129][975]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC).
+[2022.01.11-02.28.22:129][975]CompilerResultsLog: Parsing headers for GunMiniGolfCodedEditor
+[2022.01.11-02.28.22:129][975]CompilerResultsLog:   Running UnrealHeaderTool "E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\GunMiniGolfCoded.uproject" "E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\GunMiniGolfCodedEditor\Development\GunMiniGolfCodedEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Mitch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.11-02.28.22:129][975]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.11-02.28.22:129][975]CompilerResultsLog: Reflection code generated for GunMiniGolfCodedEditor in 5.7874149 seconds
+[2022.01.11-02.28.22:129][975]CompilerResultsLog: Building GunMiniGolfCodedEditor...
+[2022.01.11-02.28.22:130][975]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.11-02.28.22:130][975]CompilerResultsLog: Building 6 actions with 8 processes...
+[2022.01.11-02.28.22:130][975]CompilerResultsLog:   [1/6] DilationGrenade.cpp
+[2022.01.11-02.28.22:130][975]CompilerResultsLog:   [2/6] DilationGrenade.gen.cpp
+[2022.01.11-02.28.22:130][975]CompilerResultsLog:   [3/6] GunMiniGolfCoded.init.gen.cpp
+[2022.01.11-02.28.22:130][975]CompilerResultsLog:   [4/6] UE4Editor-GunMiniGolfCoded-7112.lib
+[2022.01.11-02.28.22:130][975]CompilerResultsLog:      Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-7112.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-7112.exp
+[2022.01.11-02.28.22:130][975]CompilerResultsLog:   [5/6] UE4Editor-GunMiniGolfCoded-7112.dll
+[2022.01.11-02.28.22:130][975]CompilerResultsLog:      Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-7112.suppressed.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-7112.suppressed.exp
+[2022.01.11-02.28.22:130][975]CompilerResultsLog:   [6/6] GunMiniGolfCodedEditor.target
+[2022.01.11-02.28.22:130][975]CompilerResultsLog: Total time in Parallel executor: 3.12 seconds
+[2022.01.11-02.28.22:130][975]CompilerResultsLog: Total execution time: 10.10 seconds
+[2022.01.11-02.28.22:130][975]LogMainFrame: MainFrame: Module compiling took 10.463 seconds
+[2022.01.11-02.28.22:169][975]LogClass: Could not find existing class DilationGrenade in package /Script/GunMiniGolfCoded for HotReload, assuming new class
+[2022.01.11-02.28.22:169][975]LogClass: Function OnOverlapBegin is new.
+[2022.01.11-02.28.22:169][975]LogClass: Function OnOverlapEnd is new.
+[2022.01.11-02.28.22:198][975]LogHotReload: Re-instancing DilationGrenade after hot-reload.
+[2022.01.11-02.28.22:203][975]LogClass: Warning: Type mismatch in RadiusScale of GrenadeTest_C - Previous (StructProperty) Current(FloatProperty) for package:  FObjectReader
+[2022.01.11-02.28.22:213][975]LogActor: Warning: GrenadeTest_C /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.28.22:262][975]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.28.22:346][975]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'GunMiniGolfCoded' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.01.11-02.28.22:353][975]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.01.11-02.28.22:465][975]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0185 seconds. Added 3827 classes and 930 folders.
+[2022.01.11-02.28.22:465][975]Display: HotReload took 10.8s.
+[2022.01.11-02.28.39:420][152]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.28.44:335][676]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.11-02.28.44:341][676]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.11-02.28.44:344][676]LogPlayLevel: [PlayLevel] Compiling GrenadeTest before play...
+[2022.01.11-02.28.44:352][676]LogActor: Warning: GrenadeTest_C /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.28.44:375][676]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.28.44:488][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.01.11-02.28.44:489][676]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (1 blueprints)
+[2022.01.11-02.28.44:489][676]LogHMD: Initializing OVRPlugin session
+[2022.01.11-02.28.44:666][676]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.01.11-02.28.44:666][676]PIE: New page: PIE session: FirstPersonExampleMap (Jan 10, 2022, 12:28:44 PM)
+[2022.01.11-02.28.44:668][676]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.28.44:683][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015419s)
+[2022.01.11-02.28.44:684][676]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.11-02.28.44:684][676]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2022.01.11-02.28.44:684][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017118s)
+[2022.01.11-02.28.44:746][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.01.11-02.28.44:746][676]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.01.11-02.28.44:746][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.11-02.28.44:746][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.11-02.28.44:746][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.11-02.28.44:746][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.11-02.28.44:746][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.11-02.28.44:746][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.11-02.28.44:746][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.11-02.28.44:746][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.11-02.28.44:747][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.11-02.28.44:747][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.11-02.28.44:747][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.11-02.28.44:747][676]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.11-02.28.44:754][676]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-02.28.44:754][676]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-02.28.44:763][676]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis 5 Game)
+[2022.01.11-02.28.44:763][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.11-02.28.44:763][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.11-02.28.44:763][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.11-02.28.44:764][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.11-02.28.44:764][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.11-02.28.44:764][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.11-02.28.44:765][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.11-02.28.44:765][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.11-02.28.44:765][676]LogInit: FAudioDevice initialized.
+[2022.01.11-02.28.44:765][676]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.01.11-02.28.44:819][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.28.44:820][676]LogLoad: Game class is 'GunMiniGolfCodedGameMode'
+[2022.01.11-02.28.44:823][676]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.01.10-19.28.44
+[2022.01.11-02.28.44:824][676]LogWorld: Bringing up level for play took: 0.003775
+[2022.01.11-02.28.44:824][676]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.01.11-02.28.44:833][676]PIE: Server logged in
+[2022.01.11-02.28.44:835][676]PIE: Play in editor total start time 0.495 seconds.
+[2022.01.11-02.28.44:889][676]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2022.01.11-02.28.46:772][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-02.28.46:772][854]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.11-02.28.46:773][854]LogSlate: Window 'GunMiniGolfCoded Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.11-02.28.46:784][854]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.28.46:784][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.28.46:802][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.11-02.28.46:842][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.28.46:878][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.11-02.28.46:878][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.28.46:880][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-02.28.46:887][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.01.11-02.28.46:931][855]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.01.11-02.29.02:151][700]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_1:PersistentLevel.GrenadeTest_C_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.30.59:869][989]Candidate modules for hot reload:
+[2022.01.11-02.30.59:869][989]  GunMiniGolfCoded
+[2022.01.11-02.30.59:869][989]Launching UnrealBuildTool... [C:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GunMiniGolfCoded,3618 GunMiniGolfCodedEditor Win64 Development -Project="E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject" "E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject"  -IgnoreJunk]
+[2022.01.11-02.30.59:872][989]Warning: Starting HotReload took  0.0s.
+[2022.01.11-02.31.07:603][718]CompilerResultsLog: New page: Compilation - Jan 10, 2022, 12:31:07 PM
+[2022.01.11-02.31.07:603][718]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC).
+[2022.01.11-02.31.07:603][718]CompilerResultsLog: Parsing headers for GunMiniGolfCodedEditor
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:   Running UnrealHeaderTool "E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\GunMiniGolfCoded.uproject" "E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\GunMiniGolfCodedEditor\Development\GunMiniGolfCodedEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Mitch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.11-02.31.07:603][718]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.11-02.31.07:603][718]CompilerResultsLog: Reflection code generated for GunMiniGolfCodedEditor in 4.9208643 seconds
+[2022.01.11-02.31.07:603][718]CompilerResultsLog: Building GunMiniGolfCodedEditor...
+[2022.01.11-02.31.07:603][718]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.11-02.31.07:603][718]CompilerResultsLog: Building 6 actions with 8 processes...
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:   [1/6] DilationGrenade.gen.cpp
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Source\GunMiniGolfCoded/DilationGrenade.h(22) : error C2143: syntax error: missing ';' before '*'
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Source\GunMiniGolfCoded/DilationGrenade.h(22) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Source\GunMiniGolfCoded/DilationGrenade.h(22) : error C2238: unexpected token(s) preceding ';'
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Inc\GunMiniGolfCoded\DilationGrenade.gen.cpp(254) : error C2039: 'RadiusMesh': is not a member of 'ADilationGrenade'
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:   E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Source\GunMiniGolfCoded/DilationGrenade.h(10): note: see declaration of 'ADilationGrenade'
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Inc\GunMiniGolfCoded\DilationGrenade.gen.cpp(254) : error C2618: illegal member designator in offsetof
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:   E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Inc\GunMiniGolfCoded\DilationGrenade.gen.cpp(254): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:   [2/6] GunMiniGolfCoded.init.gen.cpp
+[2022.01.11-02.31.07:603][718]CompilerResultsLog:   [3/6] DilationGrenade.cpp
+[2022.01.11-02.31.07:603][718]LogMainFrame: MainFrame: Module compiling took 7.742 seconds
+[2022.01.11-02.31.07:627][718]Warning: HotReload failed, recompile failed
+[2022.01.11-02.31.10:961][ 68]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.11-02.31.16:325][588]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.31.16:325][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.31.31:734][967]LogSlate: Window 'Message Log' being destroyed
+[2022.01.11-02.31.31:747][967]LogSlate: Window 'Message Log' being destroyed
+[2022.01.11-02.31.35:550][ 32]Candidate modules for hot reload:
+[2022.01.11-02.31.35:550][ 32]  GunMiniGolfCoded
+[2022.01.11-02.31.35:551][ 32]Launching UnrealBuildTool... [C:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GunMiniGolfCoded,1539 GunMiniGolfCodedEditor Win64 Development -Project="E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject" "E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject"  -IgnoreJunk]
+[2022.01.11-02.31.35:555][ 32]Warning: Starting HotReload took  0.0s.
+[2022.01.11-02.31.38:248][203]CompilerResultsLog: New page: Compilation - Jan 10, 2022, 12:31:38 PM
+[2022.01.11-02.31.38:249][203]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC).
+[2022.01.11-02.31.38:249][203]CompilerResultsLog: Building GunMiniGolfCodedEditor...
+[2022.01.11-02.31.38:249][203]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.11-02.31.38:249][203]CompilerResultsLog: Building 5 actions with 8 processes...
+[2022.01.11-02.31.38:249][203]CompilerResultsLog:   [1/5] DilationGrenade.gen.cpp
+[2022.01.11-02.31.38:249][203]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Source\GunMiniGolfCoded/DilationGrenade.h(22) : error C2143: syntax error: missing ';' before '*'
+[2022.01.11-02.31.38:249][203]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Source\GunMiniGolfCoded/DilationGrenade.h(22) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.01.11-02.31.38:249][203]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Source\GunMiniGolfCoded/DilationGrenade.h(22) : error C2238: unexpected token(s) preceding ';'
+[2022.01.11-02.31.38:249][203]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Inc\GunMiniGolfCoded\DilationGrenade.gen.cpp(254) : error C2039: 'RadiusMesh': is not a member of 'ADilationGrenade'
+[2022.01.11-02.31.38:249][203]CompilerResultsLog:   E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Source\GunMiniGolfCoded/DilationGrenade.h(10): note: see declaration of 'ADilationGrenade'
+[2022.01.11-02.31.38:249][203]CompilerResultsLog:    E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Inc\GunMiniGolfCoded\DilationGrenade.gen.cpp(254) : error C2618: illegal member designator in offsetof
+[2022.01.11-02.31.38:249][203]CompilerResultsLog:   E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Inc\GunMiniGolfCoded\DilationGrenade.gen.cpp(254): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2022.01.11-02.31.38:249][203]CompilerResultsLog:   [2/5] DilationGrenade.cpp
+[2022.01.11-02.31.38:249][203]LogMainFrame: MainFrame: Module compiling took 2.703 seconds
+[2022.01.11-02.31.38:249][203]Warning: HotReload failed, recompile failed
+[2022.01.11-02.33.01:292][378]Candidate modules for hot reload:
+[2022.01.11-02.33.01:292][378]  GunMiniGolfCoded
+[2022.01.11-02.33.01:292][378]Launching UnrealBuildTool... [C:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GunMiniGolfCoded,7651 GunMiniGolfCodedEditor Win64 Development -Project="E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject" "E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject"  -IgnoreJunk]
+[2022.01.11-02.33.01:296][378]Warning: Starting HotReload took  0.0s.
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: New page: Compilation - Jan 10, 2022, 12:33:10 PM
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC).
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: Parsing headers for GunMiniGolfCodedEditor
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog:   Running UnrealHeaderTool "E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\GunMiniGolfCoded.uproject" "E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\GunMiniGolfCodedEditor\Development\GunMiniGolfCodedEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Mitch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: Reflection code generated for GunMiniGolfCodedEditor in 4.8103603 seconds
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: Building GunMiniGolfCodedEditor...
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: Building 5 actions with 8 processes...
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog:   [1/5] DilationGrenade.cpp
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog:   [2/5] DilationGrenade.gen.cpp
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog:   [3/5] UE4Editor-GunMiniGolfCoded-7651.lib
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog:      Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-7651.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-7651.exp
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog:   [4/5] UE4Editor-GunMiniGolfCoded-7651.dll
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog:      Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-7651.suppressed.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-7651.suppressed.exp
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog:   [5/5] GunMiniGolfCodedEditor.target
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: Total time in Parallel executor: 2.87 seconds
+[2022.01.11-02.33.10:496][  1]CompilerResultsLog: Total execution time: 9.08 seconds
+[2022.01.11-02.33.10:496][  1]LogMainFrame: MainFrame: Module compiling took 9.212 seconds
+[2022.01.11-02.33.10:534][  1]LogClass: Could not find existing class DilationGrenade in package /Script/GunMiniGolfCoded for HotReload, assuming new class
+[2022.01.11-02.33.10:534][  1]LogClass: Function OnOverlapBegin is new.
+[2022.01.11-02.33.10:534][  1]LogClass: Function OnOverlapEnd is new.
+[2022.01.11-02.33.10:550][  1]LogHotReload: Re-instancing DilationGrenade after hot-reload.
+[2022.01.11-02.33.10:552][  1]LogProperty: Warning: Serialized Class /Script/Engine.StaticMeshComponent for a property of Class /Script/Engine.SphereComponent. Reference will be nullptred.
+    Property = ObjectProperty /Script/GunMiniGolfCoded.DilationGrenade:RadiusMesh
+    Item = StaticMeshComponent /Engine/Transient.Default__GrenadeTest_C:BallMesh
+[2022.01.11-02.33.10:552][  1]LogActor: Warning: GrenadeTest_C /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.33.10:553][  1]LogProperty: Warning: Serialized Class /Script/Engine.StaticMeshComponent for a property of Class /Script/Engine.SphereComponent. Reference will be nullptred.
+    Property = ObjectProperty /Script/GunMiniGolfCoded.DilationGrenade:RadiusMesh
+    Item = StaticMeshComponent /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.REINST_GrenadeTest_C_0.BallMesh
+[2022.01.11-02.33.10:611][  1]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'GunMiniGolfCoded' in 0.0002 seconds. Added 5 classes and 2 folders.
+[2022.01.11-02.33.10:617][  1]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.01.11-02.33.10:703][  1]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3827 classes and 930 folders.
+[2022.01.11-02.33.10:703][  1]Display: HotReload took  9.4s.
+[2022.01.11-02.33.10:950][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: SphereComponent /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2.BallMesh)
+[2022.01.11-02.33.16:106][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GunMiniGolf/Blueprints/GrenadeTest.GrenadeTest
+[2022.01.11-02.33.16:540][397]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_3:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.33.30:717][919]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.33.30:717][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.33.30:788][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GunMiniGolf/Blueprints/GrenadeTest.GrenadeTest
+[2022.01.11-02.33.31:090][919]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_4:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.34.37:837][853]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-02.34.37:837][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-02.34.39:092][931]Candidate modules for hot reload:
+[2022.01.11-02.34.39:092][931]  GunMiniGolfCoded
+[2022.01.11-02.34.39:092][931]Launching UnrealBuildTool... [C:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GunMiniGolfCoded,8594 GunMiniGolfCodedEditor Win64 Development -Project="E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject" "E:/Personal Projects/HumanMiniGolfC++/GunMiniGolfC/GunMiniGolfCoded/GunMiniGolfCoded.uproject"  -IgnoreJunk]
+[2022.01.11-02.34.39:094][931]Warning: Starting HotReload took  0.0s.
+[2022.01.11-02.34.43:070][ 20]CompilerResultsLog: New page: Compilation - Jan 10, 2022, 12:34:43 PM
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC).
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog: Building GunMiniGolfCodedEditor...
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog: Building 4 actions with 8 processes...
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog:   [1/4] DilationGrenade.cpp
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog:   [2/4] UE4Editor-GunMiniGolfCoded-8594.lib
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog:      Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-8594.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-8594.exp
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog:   [3/4] UE4Editor-GunMiniGolfCoded-8594.dll
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog:      Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-8594.suppressed.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\UE4Editor-GunMiniGolfCoded-8594.suppressed.exp
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog:   [4/4] GunMiniGolfCodedEditor.target
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog: Total time in Parallel executor: 2.28 seconds
+[2022.01.11-02.34.43:071][ 20]CompilerResultsLog: Total execution time: 3.62 seconds
+[2022.01.11-02.34.43:071][ 20]LogMainFrame: MainFrame: Module compiling took 3.984 seconds
+[2022.01.11-02.34.43:161][ 20]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'GunMiniGolfCoded' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2022.01.11-02.34.43:172][ 20]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2022.01.11-02.34.43:304][ 20]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3827 classes and 930 folders.
+[2022.01.11-02.34.43:304][ 20]Display: HotReload took  4.2s.
+[2022.01.11-02.34.48:336][ 75]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GunMiniGolf/Blueprints/GrenadeTest.GrenadeTest
+[2022.01.11-02.34.48:814][ 75]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_5:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.35.43:731][856]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: SphereComponent /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2.BallMesh)
+[2022.01.11-02.35.43:751][856]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: SphereComponent /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2.BallMesh)
+[2022.01.11-02.35.52:167][554]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: SphereComponent /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2.BallMesh)
+[2022.01.11-02.35.52:170][554]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: SphereComponent /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2.BallMesh)
+[2022.01.11-02.35.55:159][816]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: SphereComponent /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2.BallMesh)
+[2022.01.11-02.35.55:175][816]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: SphereComponent /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2.BallMesh)
+[2022.01.11-02.35.56:799][962]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.11-02.35.56:805][962]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.11-02.35.56:806][962]LogPlayLevel: [PlayLevel] Compiling GrenadeTest before play...
+[2022.01.11-02.35.56:807][962]LogActor: Warning: GrenadeTest_C /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GrenadeTest_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.35.56:808][962]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: SphereComponent /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.REINST_GrenadeTest_C_2.BallMesh)
+[2022.01.11-02.35.56:820][962]LogActor: Warning: GrenadeTest_C /Engine/Transient.World_5:PersistentLevel.GrenadeTest_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.01.11-02.35.56:826][962]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.01.11-02.35.56:826][962]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.01.11-02.35.59:158][962]LogWindows: Error: === Critical error: ===
+[2022.01.11-02.35.59:158][962]LogWindows: Error: 
+[2022.01.11-02.35.59:158][962]LogWindows: Error: Assertion failed: !IsRooted() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h] [Line: 173] 
+[2022.01.11-02.35.59:158][962]LogWindows: Error: 
+[2022.01.11-02.35.59:158][962]LogWindows: Error: 
+[2022.01.11-02.35.59:158][962]LogWindows: Error: 
+[2022.01.11-02.35.59:158][962]LogWindows: Error: [Callstack] 0x00007ff8ec314a6c KERNELBASE.dll!UnknownFunction []
+[2022.01.11-02.35.59:158][962]LogWindows: Error: [Callstack] 0x00007ff840d239b8 UE4Editor-Core.dll!UnknownFunction []
+[2022.01.11-02.35.59:158][962]LogWindows: Error: [Callstack] 0x0000003c02f76480 UnknownFunction []
+[2022.01.11-02.35.59:158][962]LogWindows: Error: [Callstack] 0x0000000000000400 UnknownFunction []
+[2022.01.11-02.35.59:158][962]LogWindows: Error: [Callstack] 0x0000000000000064 UnknownFunction []
+[2022.01.11-02.35.59:158][962]LogWindows: Error: [Callstack] 0x0000008000004000 UnknownFunction []
+[2022.01.11-02.35.59:158][962]LogWindows: Error: 
+[2022.01.11-02.35.59:165][962]LogExit: Executing StaticShutdownAfterError
+[2022.01.11-02.35.59:175][962]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.01.11-02.35.59:175][962]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.01.11-02.35.59:175][962]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.01.11-02.35.59:184][962]Log file closed, 01/10/22 19:35:59

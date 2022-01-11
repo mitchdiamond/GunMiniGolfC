@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeGunMiniGolfCoded_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xFDC0A239,
-				0x05E2413B,
+				0x152D0237,
+				0x20506A56,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
