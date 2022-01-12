@@ -30,6 +30,7 @@ public:
 	UPROPERTY(VisibleAnywhere, Category = "Trigger Sphere")
 		class USphereComponent* TriggerSphere;
 
+		
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
