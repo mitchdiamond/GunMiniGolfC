@@ -1,9 +1,0 @@
-E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Development\GunMiniGolfCoded\Definitions.GunMiniGolfCoded.h
-C:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Source\GunMiniGolfCoded/GunMiniGolfCodedGameMode.h
-C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\GunMiniGolfCoded\Intermediate\Build\Win64\UE4Editor\Inc\GunMiniGolfCoded\GunMiniGolfCodedGameMode.generated.h
