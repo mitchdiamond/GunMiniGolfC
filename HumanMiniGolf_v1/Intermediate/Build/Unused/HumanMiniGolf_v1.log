@@ -1,0 +1,20 @@
+﻿  'Error_UBTMissing' is not recognized as an internal or external command,
+  operable program or batch file.
+  'HumanMiniGolf_v1Editor' is not recognized as an internal or external command,
+  operable program or batch file.
+  '"C:\Program Files\Epic Games\UE_5.0EA\Engine\Build\BatchFiles\GetDotnetPath.bat"' is not recognized as an internal or external command,
+  operable program or batch file.
+  Win64 using Manual SDK 10.0.19041.0
+  Using 'git status' to determine working set for adaptive non-unity build (E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC).
+  Invalidating makefile for HumanMiniGolf_v1Editor (Platforms.cpp modified)
+  Building HumanMiniGolf_v1Editor...
+  Using Visual Studio 2019 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] Platforms.cpp
+    [2/4] UnrealEditor-HumanMiniGolf_v1-0015.lib
+       Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0015.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0015.exp
+    [3/4] UnrealEditor-HumanMiniGolf_v1-0015.dll
+       Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0015.suppressed.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0015.suppressed.exp
+    [4/4] HumanMiniGolf_v1Editor.target
+  Total time in Parallel executor: 2.03 seconds
+  Total execution time: 3.98 seconds

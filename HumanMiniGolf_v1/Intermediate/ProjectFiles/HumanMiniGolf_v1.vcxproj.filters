@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HumanMiniGolf_v1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{97D773D5-A22F-489D-B1B5-6FE820AE596C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HumanMiniGolf_v1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HumanMiniGolf_v1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3CED15BD-C7F9-4D17-B5D7-17A67674EAE0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HumanMiniGolf_v1">
+      <UniqueIdentifier>{96EFC68A-1740-43B8-A085-42A0BC1E3100}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1.Build.cs">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1.cpp">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1.h">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1Character.cpp">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1Character.h">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1GameMode.cpp">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1GameMode.h">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1HUD.cpp">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1HUD.h">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1Projectile.cpp">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HumanMiniGolf_v1\HumanMiniGolf_v1Projectile.h">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HumanMiniGolf_v1\Platforms.cpp">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HumanMiniGolf_v1\Platforms.h">
+      <Filter>Source\HumanMiniGolf_v1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

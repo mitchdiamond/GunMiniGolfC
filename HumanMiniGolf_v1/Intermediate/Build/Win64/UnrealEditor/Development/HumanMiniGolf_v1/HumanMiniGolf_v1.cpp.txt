@@ -1,0 +1,2 @@
+E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\Definitions.HumanMiniGolf_v1.h
+E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Source\HumanMiniGolf_v1\HumanMiniGolf_v1.h

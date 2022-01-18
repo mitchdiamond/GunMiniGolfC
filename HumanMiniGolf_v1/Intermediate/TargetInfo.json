@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HumanMiniGolf_v1",
+			"Path": "E:\\Personal Projects\\HumanMiniGolfC++\\GunMiniGolfC\\HumanMiniGolf_v1\\Source\\HumanMiniGolf_v1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HumanMiniGolf_v1Editor",
+			"Path": "E:\\Personal Projects\\HumanMiniGolfC++\\GunMiniGolfC\\HumanMiniGolf_v1\\Source\\HumanMiniGolf_v1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Personal Projects\\HumanMiniGolfC++\\GunMiniGolfC\\HumanMiniGolf_v1\\Source\\HumanMiniGolf_v1\\HumanMiniGolf_v1.Build.cs",
+		"E:\\Personal Projects\\HumanMiniGolfC++\\GunMiniGolfC\\HumanMiniGolf_v1\\Source\\HumanMiniGolf_v1.Target.cs",
+		"E:\\Personal Projects\\HumanMiniGolfC++\\GunMiniGolfC\\HumanMiniGolf_v1\\Source\\HumanMiniGolf_v1Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}
