@@ -10,6 +10,7 @@ APlatforms::APlatforms()
 	MyMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("My Mesh"));
 	MyMesh->SetupAttachment(RootComponent);
 
+
 }
 
 // Called when the game starts or when spawned

@@ -1,5 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
+#include "DrawDebugHelpers.h"
+
 #include "HumanMiniGolf_v1Character.h"
 #include "HumanMiniGolf_v1Projectile.h"
 #include "Animation/AnimInstance.h"
@@ -172,7 +174,44 @@ void AHumanMiniGolf_v1Character::PreviewPlatform()
 		{ 
 			const FRotator SpawnRotation = GetControlRotation();
 			// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
-			const FVector SpawnLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
+			//const FVector SpawnLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
+
+			//Having the platform spawn on ground instead.
+			const FVector StartLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
+
+			FVector ForwardVector = SpawnRotation.Vector();
+
+			FVector End = ((ForwardVector * 100000000.f) + StartLocation);
+
+			FVector_NetQuantize SpawnLocation = StartLocation;
+
+			FCollisionQueryParams CollisionParams;
+
+			FHitResult OutHit;
+
+			//if (ActorLineTraceSingle(OutHit, StartLocation, End, ECC_WorldStatic, CollisionParams))
+			//{
+			//	GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Green, FString::Printf(TEXT("Hitting")));
+			//	SpawnLocation = OutHit.Location;
+			//}
+
+			DrawDebugLine(GetWorld(), StartLocation, End, FColor::Green, false, 1, 0, 1);
+
+			if (GetWorld()->LineTraceSingleByChannel(OutHit, StartLocation, End, ECC_Visibility, CollisionParams))
+			{
+				if (OutHit.bBlockingHit)
+				{
+					if (GEngine) {
+
+						GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Red, FString::Printf(TEXT("You are hitting: %s"), *OutHit.GetActor()->GetName()));
+						GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Red, FString::Printf(TEXT("Impact Point: %s"), *OutHit.ImpactPoint.ToString()));
+						GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Red, FString::Printf(TEXT("Normal Point: %s"), *OutHit.ImpactNormal.ToString()));
+
+						SpawnLocation = OutHit.ImpactPoint;
+
+					}
+				}
+			}
 
 			//Set Spawn Collision Handling Override
 			FActorSpawnParameters ActorSpawnParams;
