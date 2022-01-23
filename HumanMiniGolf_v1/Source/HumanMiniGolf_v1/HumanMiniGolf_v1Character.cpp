@@ -172,14 +172,14 @@ void AHumanMiniGolf_v1Character::PreviewPlatform()
 		UWorld* const World = GetWorld();
 		if(World!= nullptr)
 		{ 
-			const FRotator SpawnRotation = GetControlRotation();
+			FRotator SpawnRotation = GetControlRotation();
 			// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
 			//const FVector SpawnLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
 
 			//Having the platform spawn on ground instead.
 			const FVector StartLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
 
-			FVector ForwardVector = SpawnRotation.Vector();
+			FVector_NetQuantize ForwardVector = SpawnRotation.Vector();
 
 			FVector End = ((ForwardVector * 100000000.f) + StartLocation);
 
@@ -208,6 +208,8 @@ void AHumanMiniGolf_v1Character::PreviewPlatform()
 						GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Red, FString::Printf(TEXT("Normal Point: %s"), *OutHit.ImpactNormal.ToString()));
 
 						SpawnLocation = OutHit.ImpactPoint;
+
+						SpawnRotation = OutHit.ImpactNormal.Rotation();
 
 					}
 				}

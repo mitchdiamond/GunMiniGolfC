@@ -5,10 +5,10 @@
   Building HumanMiniGolf_v1Editor...
   Using Visual Studio 2019 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 3 actions with 8 processes...
-    [1/3] UnrealEditor-HumanMiniGolf_v1-0032.lib
-       Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0032.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0032.exp
-    [2/3] UnrealEditor-HumanMiniGolf_v1-0032.dll
-       Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0032.suppressed.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0032.suppressed.exp
+    [1/3] UnrealEditor-HumanMiniGolf_v1-0034.lib
+       Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0034.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0034.exp
+    [2/3] UnrealEditor-HumanMiniGolf_v1-0034.dll
+       Creating library E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0034.suppressed.lib and object E:\Personal Projects\HumanMiniGolfC++\GunMiniGolfC\HumanMiniGolf_v1\Intermediate\Build\Win64\UnrealEditor\Development\HumanMiniGolf_v1\UnrealEditor-HumanMiniGolf_v1-0034.suppressed.exp
     [3/3] HumanMiniGolf_v1Editor.target
-  Total time in Parallel executor: 1.54 seconds
-  Total execution time: 2.50 seconds
+  Total time in Parallel executor: 1.81 seconds
+  Total execution time: 2.73 seconds
