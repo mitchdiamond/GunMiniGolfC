@@ -1,8 +1,9 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "DrawDebugHelpers.h"
+
 
 #include "HumanMiniGolf_v1Character.h"
+#include "DrawDebugHelpers.h"
 #include "HumanMiniGolf_v1Projectile.h"
 #include "Animation/AnimInstance.h"
 #include "Camera/CameraComponent.h"
@@ -58,30 +59,6 @@ AHumanMiniGolf_v1Character::AHumanMiniGolf_v1Character()
 	// Default offset from the character location for projectiles to spawn
 	GunOffset = FVector(100.0f, 0.0f, 10.0f);
 
-	// Note: The ProjectileClass and the skeletal mesh/anim blueprints for Mesh1P, FP_Gun, and VR_Gun 
-	// are set in the derived blueprint asset named MyCharacter to avoid direct content references in C++.
-
-	// Create VR Controllers.
-	R_MotionController = CreateDefaultSubobject<UMotionControllerComponent>(TEXT("R_MotionController"));
-	R_MotionController->MotionSource = FXRMotionControllerBase::RightHandSourceId;
-	R_MotionController->SetupAttachment(RootComponent);
-	L_MotionController = CreateDefaultSubobject<UMotionControllerComponent>(TEXT("L_MotionController"));
-	L_MotionController->SetupAttachment(RootComponent);
-
-	// Create a gun and attach it to the right-hand VR controller.
-	// Create a gun mesh component
-	VR_Gun = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("VR_Gun"));
-	VR_Gun->SetOnlyOwnerSee(false);			// otherwise won't be visible in the multiplayer
-	VR_Gun->bCastDynamicShadow = false;
-	VR_Gun->CastShadow = false;
-	VR_Gun->SetupAttachment(R_MotionController);
-	VR_Gun->SetRelativeRotation(FRotator(0.0f, -90.0f, 0.0f));
-
-	VR_MuzzleLocation = CreateDefaultSubobject<USceneComponent>(TEXT("VR_MuzzleLocation"));
-	VR_MuzzleLocation->SetupAttachment(VR_Gun);
-	VR_MuzzleLocation->SetRelativeLocation(FVector(0.000004, 53.999992, 10.000000));
-	VR_MuzzleLocation->SetRelativeRotation(FRotator(0.0f, 90.0f, 0.0f));		// Counteract the rotation of the VR gun model.
-
 	// Uncomment the following line to turn motion controllers on by default:
 	//bUsingMotionControllers = true;
 }
@@ -93,18 +70,6 @@ void AHumanMiniGolf_v1Character::BeginPlay()
 
 	//Attach gun mesh component to Skeleton, doing it here because the skeleton is not yet created in the constructor
 	FP_Gun->AttachToComponent(Mesh1P, FAttachmentTransformRules(EAttachmentRule::SnapToTarget, true), TEXT("GripPoint"));
-
-	// Show or hide the two versions of the gun based on whether or not we're using motion controllers.
-	if (bUsingMotionControllers)
-	{
-		VR_Gun->SetHiddenInGame(false, true);
-		Mesh1P->SetHiddenInGame(true, true);
-	}
-	else
-	{
-		VR_Gun->SetHiddenInGame(true, true);
-		Mesh1P->SetHiddenInGame(false, true);
-	}
 }
 
 //////////////////////////////////////////////////////////////////////////
@@ -121,11 +86,6 @@ void AHumanMiniGolf_v1Character::SetupPlayerInputComponent(class UInputComponent
 
 	// Bind fire event
 	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &AHumanMiniGolf_v1Character::OnFire);
-
-	// Enable touchscreen input
-	EnableTouchscreenMovement(PlayerInputComponent);
-
-	PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &AHumanMiniGolf_v1Character::OnResetVR);
 
 	// Bind movement events
 	PlayerInputComponent->BindAxis("MoveForward", this, &AHumanMiniGolf_v1Character::MoveForward);
@@ -150,6 +110,7 @@ void AHumanMiniGolf_v1Character::SetupPlayerInputComponent(class UInputComponent
 void AHumanMiniGolf_v1Character::StopPreviewPlatform()
 {
 	canCreatePlatform = false;
+	isCreatingPlatform = false;
 	if (tempPlatform != nullptr && tempPlatform->hereToStay == false)
 	{
 		tempPlatform->Destroy();
@@ -160,15 +121,20 @@ void AHumanMiniGolf_v1Character::CreatePlatform()
 {
 	if (tempPlatform != nullptr)
 	{
+		isCreatingPlatform = false;
 		tempPlatform->CreatePlaform();
 	}
 }
 
 void AHumanMiniGolf_v1Character::PreviewPlatform()
 {
+
+	GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Red, FString::Printf(TEXT("Button Pressed")));
+	isCreatingPlatform = true;
 	canCreatePlatform = true;
 	if (PlatformClass != nullptr)
 	{
+		GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Red, FString::Printf(TEXT("Platform Not Null")));
 		UWorld* const World = GetWorld();
 		if(World!= nullptr)
 		{ 
@@ -181,7 +147,7 @@ void AHumanMiniGolf_v1Character::PreviewPlatform()
 
 			FVector_NetQuantize ForwardVector = SpawnRotation.Vector();
 
-			FVector End = ((ForwardVector * 100000000.f) + StartLocation);
+			FVector End = ((ForwardVector * 1000.f) + StartLocation);
 
 			FVector_NetQuantize SpawnLocation = StartLocation;
 
@@ -209,6 +175,8 @@ void AHumanMiniGolf_v1Character::PreviewPlatform()
 
 						SpawnLocation = OutHit.ImpactPoint;
 
+						StartPlatformPosition = SpawnLocation;
+
 						SpawnRotation = OutHit.ImpactNormal.Rotation();
 
 					}
@@ -226,6 +194,36 @@ void AHumanMiniGolf_v1Character::PreviewPlatform()
 	}
 }
 
+void AHumanMiniGolf_v1Character::Tick(float DeltaSeconds)
+{
+	Super::Tick(DeltaSeconds);
+
+	if (isCreatingPlatform && PlatformClass != nullptr)
+	{
+		FRotator SpawnRotation = GetControlRotation();
+		const FVector StartLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
+		FHitResult OutHit;
+		FVector_NetQuantize ForwardVector = SpawnRotation.Vector();
+		FVector End = ((ForwardVector * 1000.f) + StartLocation);
+		FCollisionQueryParams CollisionParams;
+
+		//DrawDebugLine(GetWorld(), StartLocation, End, FColor::Green, false, 1, 0, 1);
+
+		if (GetWorld()->LineTraceSingleByChannel(OutHit, StartLocation, End, ECC_Visibility, CollisionParams))
+		{
+			if (OutHit.bBlockingHit)
+			{
+					FVector Difference = OutHit.ImpactPoint;
+					//if (isCreatingPlatform)
+					//	tempPlatform->UpdateTransform(Difference);
+			}
+		}
+
+	}
+
+
+
+}
 
 
 void AHumanMiniGolf_v1Character::OnFire()
@@ -236,14 +234,6 @@ void AHumanMiniGolf_v1Character::OnFire()
 		UWorld* const World = GetWorld();
 		if (World != nullptr)
 		{
-			if (bUsingMotionControllers)
-			{
-				const FRotator SpawnRotation = VR_MuzzleLocation->GetComponentRotation();
-				const FVector SpawnLocation = VR_MuzzleLocation->GetComponentLocation();
-				World->SpawnActor<AHumanMiniGolf_v1Projectile>(ProjectileClass, SpawnLocation, SpawnRotation);
-			}
-			else
-			{
 				const FRotator SpawnRotation = GetControlRotation();
 				// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
 				const FVector SpawnLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
@@ -254,7 +244,6 @@ void AHumanMiniGolf_v1Character::OnFire()
 
 				// spawn the projectile at the muzzle
 				World->SpawnActor<AHumanMiniGolf_v1Projectile>(ProjectileClass, SpawnLocation, SpawnRotation, ActorSpawnParams);
-			}
 		}
 	}
 
@@ -275,74 +264,6 @@ void AHumanMiniGolf_v1Character::OnFire()
 		}
 	}
 }
-
-void AHumanMiniGolf_v1Character::OnResetVR()
-{
-	UHeadMountedDisplayFunctionLibrary::ResetOrientationAndPosition();
-}
-
-void AHumanMiniGolf_v1Character::BeginTouch(const ETouchIndex::Type FingerIndex, const FVector Location)
-{
-	if (TouchItem.bIsPressed == true)
-	{
-		return;
-	}
-	if ((FingerIndex == TouchItem.FingerIndex) && (TouchItem.bMoved == false))
-	{
-		OnFire();
-	}
-	TouchItem.bIsPressed = true;
-	TouchItem.FingerIndex = FingerIndex;
-	TouchItem.Location = Location;
-	TouchItem.bMoved = false;
-}
-
-void AHumanMiniGolf_v1Character::EndTouch(const ETouchIndex::Type FingerIndex, const FVector Location)
-{
-	if (TouchItem.bIsPressed == false)
-	{
-		return;
-	}
-	TouchItem.bIsPressed = false;
-}
-
-//Commenting this section out to be consistent with FPS BP template.
-//This allows the user to turn without using the right virtual joystick
-
-//void AHumanMiniGolf_v1Character::TouchUpdate(const ETouchIndex::Type FingerIndex, const FVector Location)
-//{
-//	if ((TouchItem.bIsPressed == true) && (TouchItem.FingerIndex == FingerIndex))
-//	{
-//		if (TouchItem.bIsPressed)
-//		{
-//			if (GetWorld() != nullptr)
-//			{
-//				UGameViewportClient* ViewportClient = GetWorld()->GetGameViewport();
-//				if (ViewportClient != nullptr)
-//				{
-//					FVector MoveDelta = Location - TouchItem.Location;
-//					FVector2D ScreenSize;
-//					ViewportClient->GetViewportSize(ScreenSize);
-//					FVector2D ScaledDelta = FVector2D(MoveDelta.X, MoveDelta.Y) / ScreenSize;
-//					if (FMath::Abs(ScaledDelta.X) >= 4.0 / ScreenSize.X)
-//					{
-//						TouchItem.bMoved = true;
-//						float Value = ScaledDelta.X * BaseTurnRate;
-//						AddControllerYawInput(Value);
-//					}
-//					if (FMath::Abs(ScaledDelta.Y) >= 4.0 / ScreenSize.Y)
-//					{
-//						TouchItem.bMoved = true;
-//						float Value = ScaledDelta.Y * BaseTurnRate;
-//						AddControllerPitchInput(Value);
-//					}
-//					TouchItem.Location = Location;
-//				}
-//				TouchItem.Location = Location;
-//			}
-//		}
-//	}
-//}
 
 void AHumanMiniGolf_v1Character::MoveForward(float Value)
 {
@@ -372,19 +293,4 @@ void AHumanMiniGolf_v1Character::LookUpAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
 	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
-}
-
-bool AHumanMiniGolf_v1Character::EnableTouchscreenMovement(class UInputComponent* PlayerInputComponent)
-{
-	if (FPlatformMisc::SupportsTouchInput() || GetDefault<UInputSettings>()->bUseMouseForTouch)
-	{
-		PlayerInputComponent->BindTouch(EInputEvent::IE_Pressed, this, &AHumanMiniGolf_v1Character::BeginTouch);
-		PlayerInputComponent->BindTouch(EInputEvent::IE_Released, this, &AHumanMiniGolf_v1Character::EndTouch);
-
-		//Commenting this out to be more consistent with FPS BP template.
-		//PlayerInputComponent->BindTouch(EInputEvent::IE_Repeat, this, &AHumanMiniGolf_v1Character::TouchUpdate);
-		return true;
-	}
-	
-	return false;
 }

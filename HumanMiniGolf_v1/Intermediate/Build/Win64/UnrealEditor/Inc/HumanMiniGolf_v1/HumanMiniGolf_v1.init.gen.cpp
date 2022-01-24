@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeHumanMiniGolf_v1_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xF64C80FC,
+				0xE4E1C1DC,
 				0x0F606855,
 				METADATA_PARAMS(nullptr, 0)
 			};

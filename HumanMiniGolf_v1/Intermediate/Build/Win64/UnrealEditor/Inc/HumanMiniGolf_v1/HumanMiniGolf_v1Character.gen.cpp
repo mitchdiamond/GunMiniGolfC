@@ -20,7 +20,6 @@ void EmptyLinkFunctionForGeneratedCodeHumanMiniGolf_v1Character() {}
 	ENGINE_API UClass* Z_Construct_UClass_USkeletalMeshComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USceneComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
-	HEADMOUNTEDDISPLAY_API UClass* Z_Construct_UClass_UMotionControllerComponent_NoRegister();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 	HUMANMINIGOLF_V1_API UClass* Z_Construct_UClass_AHumanMiniGolf_v1Projectile_NoRegister();
@@ -54,25 +53,9 @@ void EmptyLinkFunctionForGeneratedCodeHumanMiniGolf_v1Character() {}
 #endif
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_FP_MuzzleLocation;
 #if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam NewProp_VR_Gun_MetaData[];
-#endif
-		static const UECodeGen_Private::FObjectPropertyParams NewProp_VR_Gun;
-#if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam NewProp_VR_MuzzleLocation_MetaData[];
-#endif
-		static const UECodeGen_Private::FObjectPropertyParams NewProp_VR_MuzzleLocation;
-#if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_FirstPersonCameraComponent_MetaData[];
 #endif
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_FirstPersonCameraComponent;
-#if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam NewProp_R_MotionController_MetaData[];
-#endif
-		static const UECodeGen_Private::FObjectPropertyParams NewProp_R_MotionController;
-#if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam NewProp_L_MotionController_MetaData[];
-#endif
-		static const UECodeGen_Private::FObjectPropertyParams NewProp_L_MotionController;
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_BaseTurnRate_MetaData[];
 #endif
@@ -106,6 +89,15 @@ void EmptyLinkFunctionForGeneratedCodeHumanMiniGolf_v1Character() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_PlatformClass_MetaData[];
 #endif
 		static const UECodeGen_Private::FClassPropertyParams NewProp_PlatformClass;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_isCreatingPlatform_MetaData[];
+#endif
+		static void NewProp_isCreatingPlatform_SetBit(void* Obj);
+		static const UECodeGen_Private::FBoolPropertyParams NewProp_isCreatingPlatform;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_StartPlatformPosition_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_StartPlatformPosition;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -152,26 +144,6 @@ void EmptyLinkFunctionForGeneratedCodeHumanMiniGolf_v1Character() {}
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FP_MuzzleLocation = { "FP_MuzzleLocation", nullptr, (EPropertyFlags)0x00400000000b0009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AHumanMiniGolf_v1Character, FP_MuzzleLocation), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FP_MuzzleLocation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FP_MuzzleLocation_MetaData)) };
 #if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_Gun_MetaData[] = {
-		{ "Category", "Mesh" },
-		{ "Comment", "/** Gun mesh: VR view (attached to the VR controller directly, no arm, just the actual gun) */" },
-		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "HumanMiniGolf_v1Character.h" },
-		{ "ToolTip", "Gun mesh: VR view (attached to the VR controller directly, no arm, just the actual gun)" },
-	};
-#endif
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_Gun = { "VR_Gun", nullptr, (EPropertyFlags)0x00400000000b0009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AHumanMiniGolf_v1Character, VR_Gun), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_Gun_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_Gun_MetaData)) };
-#if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_MuzzleLocation_MetaData[] = {
-		{ "Category", "Mesh" },
-		{ "Comment", "/** Location on VR gun mesh where projectiles should spawn. */" },
-		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "HumanMiniGolf_v1Character.h" },
-		{ "ToolTip", "Location on VR gun mesh where projectiles should spawn." },
-	};
-#endif
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_MuzzleLocation = { "VR_MuzzleLocation", nullptr, (EPropertyFlags)0x00400000000b0009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AHumanMiniGolf_v1Character, VR_MuzzleLocation), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_MuzzleLocation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_MuzzleLocation_MetaData)) };
-#if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FirstPersonCameraComponent_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
@@ -182,28 +154,6 @@ void EmptyLinkFunctionForGeneratedCodeHumanMiniGolf_v1Character() {}
 	};
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FirstPersonCameraComponent = { "FirstPersonCameraComponent", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AHumanMiniGolf_v1Character, FirstPersonCameraComponent), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FirstPersonCameraComponent_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FirstPersonCameraComponent_MetaData)) };
-#if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_R_MotionController_MetaData[] = {
-		{ "AllowPrivateAccess", "true" },
-		{ "Category", "HumanMiniGolf_v1Character" },
-		{ "Comment", "/** Motion controller (right hand) */" },
-		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "HumanMiniGolf_v1Character.h" },
-		{ "ToolTip", "Motion controller (right hand)" },
-	};
-#endif
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_R_MotionController = { "R_MotionController", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AHumanMiniGolf_v1Character, R_MotionController), Z_Construct_UClass_UMotionControllerComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_R_MotionController_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_R_MotionController_MetaData)) };
-#if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_L_MotionController_MetaData[] = {
-		{ "AllowPrivateAccess", "true" },
-		{ "Category", "HumanMiniGolf_v1Character" },
-		{ "Comment", "/** Motion controller (left hand) */" },
-		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "HumanMiniGolf_v1Character.h" },
-		{ "ToolTip", "Motion controller (left hand)" },
-	};
-#endif
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_L_MotionController = { "L_MotionController", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AHumanMiniGolf_v1Character, L_MotionController), Z_Construct_UClass_UMotionControllerComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_L_MotionController_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_L_MotionController_MetaData)) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_BaseTurnRate_MetaData[] = {
 		{ "Category", "Camera" },
@@ -277,16 +227,30 @@ void EmptyLinkFunctionForGeneratedCodeHumanMiniGolf_v1Character() {}
 		{ "ModuleRelativePath", "HumanMiniGolf_v1Character.h" },
 	};
 #endif
-	const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_PlatformClass = { "PlatformClass", nullptr, (EPropertyFlags)0x0014000000010001, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AHumanMiniGolf_v1Character, PlatformClass), Z_Construct_UClass_APlatforms_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_PlatformClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_PlatformClass_MetaData)) };
+	const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_PlatformClass = { "PlatformClass", nullptr, (EPropertyFlags)0x0014000000000001, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AHumanMiniGolf_v1Character, PlatformClass), Z_Construct_UClass_APlatforms_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_PlatformClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_PlatformClass_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_isCreatingPlatform_MetaData[] = {
+		{ "Category", "Platform" },
+		{ "ModuleRelativePath", "HumanMiniGolf_v1Character.h" },
+	};
+#endif
+	void Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_isCreatingPlatform_SetBit(void* Obj)
+	{
+		((AHumanMiniGolf_v1Character*)Obj)->isCreatingPlatform = 1;
+	}
+	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_isCreatingPlatform = { "isCreatingPlatform", nullptr, (EPropertyFlags)0x0010000000020001, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(AHumanMiniGolf_v1Character), &Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_isCreatingPlatform_SetBit, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_isCreatingPlatform_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_isCreatingPlatform_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_StartPlatformPosition_MetaData[] = {
+		{ "Category", "Platform" },
+		{ "ModuleRelativePath", "HumanMiniGolf_v1Character.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_StartPlatformPosition = { "StartPlatformPosition", nullptr, (EPropertyFlags)0x0010000000020001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AHumanMiniGolf_v1Character, StartPlatformPosition), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_StartPlatformPosition_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_StartPlatformPosition_MetaData)) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_Mesh1P,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FP_Gun,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FP_MuzzleLocation,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_Gun,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_VR_MuzzleLocation,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FirstPersonCameraComponent,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_R_MotionController,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_L_MotionController,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_BaseTurnRate,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_BaseLookUpRate,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_GunOffset,
@@ -295,6 +259,8 @@ void EmptyLinkFunctionForGeneratedCodeHumanMiniGolf_v1Character() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_FireAnimation,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_bUsingMotionControllers,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_PlatformClass,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_isCreatingPlatform,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::NewProp_StartPlatformPosition,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AHumanMiniGolf_v1Character_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AHumanMiniGolf_v1Character>::IsAbstract,
@@ -323,7 +289,7 @@ void EmptyLinkFunctionForGeneratedCodeHumanMiniGolf_v1Character() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AHumanMiniGolf_v1Character, 2367592483);
+	IMPLEMENT_CLASS(AHumanMiniGolf_v1Character, 1787131095);
 	template<> HUMANMINIGOLF_V1_API UClass* StaticClass<AHumanMiniGolf_v1Character>()
 	{
 		return AHumanMiniGolf_v1Character::StaticClass();

@@ -9,14 +9,12 @@ APlatforms::APlatforms()
 {
 	MyMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("My Mesh"));
 	MyMesh->SetupAttachment(RootComponent);
-
-
 }
 
 // Called when the game starts or when spawned
 void APlatforms::BeginPlay()
 {
-	MyMesh->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+	MyMesh->SetCollisionEnabled(ECollisionEnabled::PhysicsOnly);
 	MyMesh->SetMaterial(0, ghostMat);
 	Super::BeginPlay();
 	
@@ -26,7 +24,11 @@ void APlatforms::CreatePlaform()
 {
 	hereToStay = true;
 	MyMesh->SetMaterial(0, solidMat);
-	MyMesh->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+	MyMesh->SetCollisionObjectType(ECollisionChannel::ECC_MAX);
 
 }
 
+void APlatforms::UpdateTransform(FVector Difference)
+{
+	//this->SetActorLocation(Difference);
+}
